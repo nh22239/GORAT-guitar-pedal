@@ -1,0 +1,41 @@
+
+Original:
+
+Gain peak ~400Hz, G = 60
+
+LPF:
+C4 = 100p
+f = 16KHz
+
+HPF:
+R4.C5 = 47*2.2u = 1539Hz
+R5.C6 = 560*4.7u = 60Hz     <-- keep this stock?
+
+
+
+Bass mode:
+
+Gain peak ~100Hz, G = 70
+
+LPF leave the same
+C4 = 100p
+f = 16KHz
+
+HPF
+R4.C5 = 22*47u = 153.9Hz <- much more gain around 100Hz region, see how it sounds....
+R5.C6 stay the same
+
+
+
+Beans mode:
+
+Gain peak ~800Hz, G = 52
+
+LPF leave the same
+C4 = 100p
+f = 16KHz
+
+HPF
+R4.C5 = 22*0.47u = 7234Hz <- more highs
+R5.C6 = 560*0.47u = 	<- less lows
+
