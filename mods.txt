@@ -39,3 +39,17 @@ HPF
 R4.C5 = 22*0.47u = 7234Hz <- more highs
 R5.C6 = 560*0.47u = 	<- less lows
 
+
+
+
+
+
+
+
+REVISED:
+
+C5 2.2uF -> 10uF
+C6 4.7uF -> 22uF
+C8 3.3nF -> 6.8nF
+
+Diodes: germanium, LED
