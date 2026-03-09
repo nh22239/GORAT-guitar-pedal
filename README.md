@@ -3,13 +3,13 @@ Here at **GORAM** industries, we love the sound of a good dirty **RAT**, but wha
 That's why we've decided to go custom, a brand new **RAT** clone built by **GORAM**, for **GORAM**.
 
 ## New features:
-Frequency response selector switch!
+### Frequency response selector switch!
 
   A simple knob that allows switching the filters of the op-amp stage between **Regular**, **Bass**, and **BEANS** modes
   
-Diode selector switch
+### Diode selector switch
 
   Pick between 6 different diode combinations
   
-Wet/Dry knob
+### Wet/Dry knob
 
