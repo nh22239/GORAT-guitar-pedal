@@ -31,7 +31,8 @@ That's why we've decided to go custom, a brand new **RAT** clone built by **GORA
   The enclosure is very busy, any new features would probably require this.
 ### Mini versions
   Much smaller package sizes individualised for Bass, Standard, and Beans.
-
+### Colour LED display
+  Switch between red, green, and blue when the feedback capacitor selector is changed, easy to implement as the 4x3 rotarty switch has a free pole but version 1.1 has run out of board space.
 
 ![LineDrawing](https://github.com/user-attachments/assets/71ea2c9e-8ac7-4d7f-a444-0364b5f20d94)
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
