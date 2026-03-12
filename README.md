@@ -1,3 +1,6 @@
+
+<img width="2565" height="1133" alt="goram" src="https://github.com/user-attachments/assets/811d0dff-e874-4ab1-b5a8-d36c41cf33d4" />
+
 # GORAT RAT clone 
 Here at **GORAM** industries, we love the sound of a good dirty **RAT**, but what if we all want to use one at the same time? Suffice to say, we'd probably all get lost in eachothers sound.
 That's why we've decided to go custom, a brand new **RAT** clone built by **GORAM**, for **GORAM**.
