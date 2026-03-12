@@ -29,6 +29,7 @@ That's why we've decided to go custom, a brand new **RAT** clone built by **GORA
 ### Mini versions
   Much smaller package sizes individualised for Bass, Standard, and Beans.
 
+
 ![LineDrawing](https://github.com/user-attachments/assets/71ea2c9e-8ac7-4d7f-a444-0364b5f20d94)
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
