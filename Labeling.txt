@@ -1,0 +1,7 @@
+RandomAccessCrew
+Model: GoRAT (working title) v1.1
+Power: 9V DC Centre Negative
+Current: ??????
+UKCA - requires technical file, declaration of conformity, UKCA mark on product 
+WEEE? £30 per year for producer number
+RoHS (probably fine, all components from reputable suppliers should conform)
