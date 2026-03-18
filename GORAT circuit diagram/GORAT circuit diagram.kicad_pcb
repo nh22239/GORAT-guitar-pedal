@@ -6223,14 +6223,14 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+	(footprint "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "2f62e3f2-42df-403b-8eec-b37462d0c588")
 		(at 51 109.5 180)
-		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5.1*3.2mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
-		(tags "C Disc series Radial pin pitch 5.00mm diameter 5.1mm width 3.2mm Capacitor")
+		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=4.7*2.5mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
+		(tags "C Disc series Radial pin pitch 5.00mm diameter 4.7mm width 2.5mm Capacitor")
 		(property "Reference" "C21"
-			(at 2.5 0 0)
+			(at 2.5 -2.5 180)
 			(layer "F.SilkS")
 			(uuid "8ec92385-5c92-4976-8243-75ebd45bf436")
 			(effects
@@ -6241,7 +6241,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 2.5 2.85 0)
+			(at 2.5 2.5 180)
 			(layer "F.Fab")
 			(uuid "8e19a8ef-51a5-4b18-bf47-f85d56a1f244")
 			(effects
@@ -6252,7 +6252,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "68147eb3-db9a-4785-ad70-aa318d1aea0c")
@@ -6264,7 +6264,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1b7548e7-0f50-4adf-930b-99aaa7521e49")
@@ -6280,7 +6280,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bbcd9ade-7c50-43ac-ba71-93b8250fddb0")
+			(uuid "2fa28d39-49bc-42e9-9f39-2146cebe2530")
 			(effects
 				(font
 					(size 1 1)
@@ -6293,7 +6293,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f13d6759-27da-4d86-abaf-4c760232fe93")
+			(uuid "9109fb53-875c-473e-a529-c66b3b981455")
 			(effects
 				(font
 					(size 1 1)
@@ -6306,7 +6306,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3cc21619-fd37-4792-96c0-76c5b8d46cbf")
+			(uuid "7331539d-8f28-469a-acc8-afd1efedaa7f")
 			(effects
 				(font
 					(size 1 1)
@@ -6319,7 +6319,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "edf8bfb8-5b25-4add-befc-76c9ba1887ec")
+			(uuid "41b85a6e-8000-4278-b691-6e34e62e6979")
 			(effects
 				(font
 					(size 1 1)
@@ -6332,7 +6332,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d9ebdf7e-82a1-466a-aea8-3a6ebfe751c1")
+			(uuid "88cccc89-542b-46b8-8e37-86ec3f6830d3")
 			(effects
 				(font
 					(size 1 1)
@@ -6345,7 +6345,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "62dab11a-0226-4791-988d-082381562802")
+			(uuid "d43c5a7d-43e6-4fbc-a2e4-10a4b5369f83")
 			(effects
 				(font
 					(size 1 1)
@@ -6358,7 +6358,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ad60f379-817c-4888-81b6-12ce8828f3b0")
+			(uuid "1f6ad90f-9806-4947-b1ee-e0ef1c6f5a4a")
 			(effects
 				(font
 					(size 1 1)
@@ -6371,7 +6371,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e5ee9ce6-d675-49f5-9016-6ce9ae9846df")
+			(uuid "e3f19f50-6013-4fd0-8a09-229338309d23")
 			(effects
 				(font
 					(size 1 1)
@@ -6384,7 +6384,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4c37ccd-4a37-49d7-a3da-562116b67c48")
+			(uuid "3c8a9bc2-8b38-4ced-b82e-94769e01f344")
 			(effects
 				(font
 					(size 1 1)
@@ -6398,95 +6398,95 @@
 		(sheetfile "GORAT circuit diagram.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 5.17 1.72)
-			(end -0.17 1.72)
+			(start 4.97 1.37)
+			(end 0.03 1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "72683a76-7f68-4f53-b01c-925740926099")
+			(uuid "ba467598-0d3c-4f94-8eed-24a774bff5d5")
 		)
 		(fp_line
-			(start 5.17 1.026)
-			(end 5.17 1.72)
+			(start 4.97 1.04)
+			(end 4.97 1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f28c8e50-a09a-4607-ad8a-98a9a1862a1c")
+			(uuid "d2a6053f-418a-42eb-8a58-4df58dec21dd")
 		)
 		(fp_line
-			(start 5.17 -1.72)
-			(end 5.17 -1.026)
+			(start 4.97 -1.37)
+			(end 4.97 -1.04)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "55671e14-f334-4642-8264-79d2230a8419")
+			(uuid "4505a3a4-f165-4087-ae54-23a532e944f3")
 		)
 		(fp_line
-			(start -0.17 1.72)
-			(end -0.17 1.026)
+			(start 0.03 1.37)
+			(end 0.03 1.04)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8ef350fe-f7fc-4694-b96a-d89176ce26a1")
+			(uuid "58ab8fe9-2d9f-4604-934f-6c4113b770ae")
 		)
 		(fp_line
-			(start -0.17 -1.026)
-			(end -0.17 -1.72)
+			(start 0.03 -1.04)
+			(end 0.03 -1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0016b51d-c66b-4b7c-9ade-38f7ad48b2ea")
+			(uuid "ad52727f-390a-4df6-aa68-5795b984ac71")
 		)
 		(fp_line
-			(start -0.17 -1.72)
-			(end 5.17 -1.72)
+			(start 0.03 -1.37)
+			(end 4.97 -1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "205c9ce6-7253-4569-958c-7980fd8e6c22")
+			(uuid "5955d9c8-e2e3-4ee6-bc68-4f391aa75753")
 		)
 		(fp_rect
-			(start -1.05 -1.85)
-			(end 6.05 1.85)
+			(start -1.05 -1.5)
+			(end 6.05 1.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "77dc133b-299a-4d35-9ae7-e7a658bb5cc3")
+			(uuid "113a05bd-4a68-47f6-bdc5-a6419c0f8ada")
 		)
 		(fp_rect
-			(start -0.05 -1.6)
-			(end 5.05 1.6)
+			(start 0.15 -1.25)
+			(end 4.85 1.25)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "e4555f3a-76dd-4950-88a8-72634c0ffd4a")
+			(uuid "55537b55-9ce5-4598-8b08-a7c25c820e4a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.5 0 0)
+			(at 2.5 0 180)
 			(layer "F.Fab")
 			(uuid "7c40e02a-b96f-4660-a6ba-3df002980a0e")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.94 0.94)
+					(thickness 0.141)
 				)
 			)
 		)
@@ -6511,7 +6511,7 @@
 			(uuid "883d2b5c-275e-4544-b94a-eb56a1358ccf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D5.1mm_W3.2mm_P5.00mm.step"
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18351,14 +18351,14 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+	(footprint "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "7e625800-2ac6-4056-b887-aec9cbec435f")
 		(at 35.5 100.5 -90)
-		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5.1*3.2mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
-		(tags "C Disc series Radial pin pitch 5.00mm diameter 5.1mm width 3.2mm Capacitor")
+		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=4.7*2.5mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
+		(tags "C Disc series Radial pin pitch 5.00mm diameter 4.7mm width 2.5mm Capacitor")
 		(property "Reference" "C20"
-			(at 2.5 0 90)
+			(at 2.5 0 270)
 			(layer "F.SilkS")
 			(uuid "d5c7b88f-fad0-44a1-ac25-711a4b19c0ab")
 			(effects
@@ -18369,7 +18369,7 @@
 			)
 		)
 		(property "Value" "220n"
-			(at 2.5 2.85 90)
+			(at 2.5 2.5 270)
 			(layer "F.Fab")
 			(uuid "6b854f51-bb18-4ba2-8592-c3f2d535c26b")
 			(effects
@@ -18380,7 +18380,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8b417c5d-e8bf-461f-8df8-b3bb0040c37a")
@@ -18392,7 +18392,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8acf5101-a6ed-4946-8407-022789382fbd")
@@ -18408,7 +18408,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7669ed49-2695-40f4-9b87-fa4432c95aba")
+			(uuid "0b80f85d-777a-4e59-8676-4d67d553c277")
 			(effects
 				(font
 					(size 1 1)
@@ -18421,7 +18421,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40b4427a-0cf2-40ac-a74e-ad9f4eb3a8c2")
+			(uuid "848e2cc7-8598-468f-bc95-6bfa0e23b2e5")
 			(effects
 				(font
 					(size 1 1)
@@ -18434,7 +18434,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1e40c4ed-e286-488d-8f52-ed12a174e12d")
+			(uuid "06a883bf-d232-4a70-8afd-573fea33261d")
 			(effects
 				(font
 					(size 1 1)
@@ -18447,7 +18447,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "781ff918-d90d-4a19-b979-2b1155158667")
+			(uuid "cfe69726-65e2-4b38-842c-3fc2d9a7b620")
 			(effects
 				(font
 					(size 1 1)
@@ -18460,7 +18460,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e91c39c-78dc-4018-b1ac-a9d0da8a5465")
+			(uuid "c91c3a73-2b21-48ad-b214-c8ee6bdb0f6e")
 			(effects
 				(font
 					(size 1 1)
@@ -18473,7 +18473,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "38515779-4bef-41f3-aa24-883a110a0361")
+			(uuid "9a4c9ac0-18e4-4502-b716-5013385e9efe")
 			(effects
 				(font
 					(size 1 1)
@@ -18486,7 +18486,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d76e3cc9-3a52-4775-8d75-a0d5bd738387")
+			(uuid "5361b08e-d62e-4a7a-9b34-4b6a9753c6ff")
 			(effects
 				(font
 					(size 1 1)
@@ -18499,7 +18499,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7c7bd0f4-f5ed-45fd-a1ad-8556a59b3ad1")
+			(uuid "968b9a46-2997-43c4-ac91-e1e68de423b0")
 			(effects
 				(font
 					(size 1 1)
@@ -18512,7 +18512,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ee0c7625-1290-4e40-8433-45b0c355eeae")
+			(uuid "9e704453-2a33-40be-a42a-a8f2c0bef3e8")
 			(effects
 				(font
 					(size 1 1)
@@ -18526,95 +18526,95 @@
 		(sheetfile "GORAT circuit diagram.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -0.17 1.72)
-			(end -0.17 1.026)
+			(start 0.03 1.37)
+			(end 0.03 1.04)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "30800ce9-2f7e-4839-988d-5453a44cb48c")
+			(uuid "c8bc4943-7162-41b9-a8ab-09bb599490e8")
 		)
 		(fp_line
-			(start 5.17 1.72)
-			(end -0.17 1.72)
+			(start 4.97 1.37)
+			(end 0.03 1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4d22a162-d97e-4fd2-aadf-4c6248d3f2c8")
+			(uuid "b9cdb599-5f59-4f46-bdb6-efb4622932ae")
 		)
 		(fp_line
-			(start 5.17 1.026)
-			(end 5.17 1.72)
+			(start 4.97 1.04)
+			(end 4.97 1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4673e51d-33dc-4918-b5c6-32e935ce9ee2")
+			(uuid "c11fae5f-7583-45fb-97c1-ec81e844c790")
 		)
 		(fp_line
-			(start -0.17 -1.026)
-			(end -0.17 -1.72)
+			(start 0.03 -1.04)
+			(end 0.03 -1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2c583d7f-bf93-468e-8fa1-8b888c360b4e")
+			(uuid "b0419c9b-f8ba-4b50-b84b-d69318ab1187")
 		)
 		(fp_line
-			(start -0.17 -1.72)
-			(end 5.17 -1.72)
+			(start 0.03 -1.37)
+			(end 4.97 -1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "71ae0902-40ec-4e2f-9fe1-fae105f5dbfd")
+			(uuid "e660aeb5-e9ac-4bf5-a0a1-ba9e61d9920a")
 		)
 		(fp_line
-			(start 5.17 -1.72)
-			(end 5.17 -1.026)
+			(start 4.97 -1.37)
+			(end 4.97 -1.04)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9f6ef4dd-8c48-4577-8d3b-560d34ea7060")
+			(uuid "b7cd73e1-d4aa-4438-b5a9-2c897a2c0c85")
 		)
 		(fp_rect
-			(start -1.05 -1.85)
-			(end 6.05 1.85)
+			(start -1.05 -1.5)
+			(end 6.05 1.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "9a2f0670-062c-4d1d-bb20-3cfae3dffbb8")
+			(uuid "71b102ae-cdbf-40ed-a9bc-667fab7eeede")
 		)
 		(fp_rect
-			(start -0.05 -1.6)
-			(end 5.05 1.6)
+			(start 0.15 -1.25)
+			(end 4.85 1.25)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "51a54739-b65f-47a4-bd3e-c5a3ae7e0c16")
+			(uuid "203914ba-3ebc-4f2d-9036-f660e1f81929")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.5 0 90)
+			(at 2.5 0 270)
 			(layer "F.Fab")
 			(uuid "e5a3d352-f6dd-4e23-9066-47d8c1e56a47")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.94 0.94)
+					(thickness 0.141)
 				)
 			)
 		)
@@ -18639,7 +18639,7 @@
 			(uuid "6c8d231c-d6e1-44d0-b38c-71969fd5acb5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D5.1mm_W3.2mm_P5.00mm.step"
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20282,7 +20282,7 @@
 			)
 		)
 		(property ki_fp_filters "*STOMP-SWITCH-3PDT*")
-		(path "/b4e19b51-3eba-4e3f-b610-545ad30f3d92")
+		(path "/b1a599c4-b4e2-43b6-af15-0b2a600c469b")
 		(sheetname "/")
 		(sheetfile "GORAT circuit diagram.kicad_sch")
 		(attr smd)

@@ -12251,7 +12251,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 43.18 35.2552 0)
 			(effects
 				(font
@@ -13774,7 +13774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 43.18 23.1648 0)
 			(effects
 				(font
