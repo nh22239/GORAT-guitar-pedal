@@ -35,8 +35,9 @@ That's why we've decided to go custom, a brand new **RAT** clone built by **GORA
   Switch between red, green, and blue when the feedback capacitor selector is changed, easy to implement as the 4x3 rotarty switch has a free pole but version 1.1 has run out of board space.
 
 
-##Update 24/03/2026
+## Update 24/03/2026
 The PCB's have arrived!
+Due to the different heights of components, not to mention mechanical strain, I've designed the board to be printed as one piece that snaps off into three. The intention is that the breakout for the stomp button, and having flying wires for all of the jacks, will reduce the wear on the piece and contribute to a more professional finish.
 
 ![PCBv1 1 delivery](https://github.com/user-attachments/assets/fb6d2f47-283c-4bdc-a9ea-be06932ab88e)
 
