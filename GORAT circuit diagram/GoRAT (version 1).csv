@@ -1,43 +1,44 @@
-Reference,Value,Manufacturer No,Qty,DNP,Exclude from BOM,Exclude from Board,Footprint,Supplier,Order code,Datasheet,Unit Price (inc VAT),Subtotal
-"C1,C9",22n,K223K15X7RF5UH5,2,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA10734,~, œ0.08 , œ0.16 
-C2,1n,K102J15C0GF53L2,1,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06816,~, œ0.10 , œ0.10 
-C4,100p,K101J15C0GF53L2,1,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06809,~, œ0.06 , œ0.06 
-C5,2.2u,50ML2R2MEFC4X5,1,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA07533,~, œ0.26 , œ0.26 
-"C6,C7",4.7u,50MS54R7M0557,2,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA05565,~, œ0.18 , œ0.36 
-C8,3.3n,MCRR50332X7RK0100,1,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06300,~, œ0.16 , œ0.16 
-"C10,C13,C19",1u,MCGPR50V105M5X11,3,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA04763,~, œ0.25 , œ0.75 
-C11,100u,25YXJ100M5X11,1,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA09737,~, œ0.11 , œ0.11 
-C12,0.1u,K104K15X7RF53L2,1,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06802,~, œ0.12 , œ0.12 
-C14,10u,MCGPR25V106M5X11,1,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA04744,~, œ0.28 , œ0.28 
-C15,22u,MCGPR25V226M5X11,1,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA04745,~, œ0.29 , œ0.29 
-C16,68p,K680J15C0GF53L2,1,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06821,~, œ0.16 , œ0.16 
-C17,47p,K470J15C0GF53L2,1,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06814,~, œ0.17 , œ0.17 
-"C18, C21",470n,MCRR50474Z5UM0050,2,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA05523,~, œ0.50 , œ1.00 
-C20,220n,K224K20X7RF53L2,1,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06812,~, œ0.42 , œ0.42 
-C22,33p,K330J15C0GF53L2,1,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06806,~, œ0.38 , œ0.38 
-"D1,D2",1N914,1N914,2,,,,PCM_Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal,CPC,SC08157,https://datasheet.octopart.com/1N914ATR-ON-Semiconductor-datasheet-42765246.pdf, œ0.04 , œ0.08 
-D3,1N4002,1N4002G,1,,,,PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal,CPC,SC17771,https://www.tme.eu/Document/5f8ffc5ac30fc86bac97d66040bf5502/1n400x.pdf, œ0.06 , œ0.06 
-"D4,D5,D6",Red,MP006838,3,,,,PCM_SparkFun-LED:LED_5mm_PTH_Red_NoSilk,CPC,SC19413,https://cdn.sparkfun.com/assets/e/c/e/c/5/COM-09590-YSL-R531R3D-D2.pdf, œ0.07 , œ0.21 
-"D7,D8",BAT41,BAT41,2,,,,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,CPC,SC07323,http://www.vishay.com/docs/85659/bat41.pdf, œ0.26 , œ0.52 
-"J1,J2",AudioJack2,NYS229,2,,,,Off-board wiring,CPC,CN26775,~, œ0.75 , œ1.50 
-J6,Barrel_Jack,PPW01004,1,,,,Off-board wiring,CPC,AV15144,~, œ0.71 , œ0.71 
-Q1,J111,J111,1,,,,PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_DSG,CPC,SC12586,https://www.tme.eu/Document/2ab8d7a6d6d8a209f9d7deeb52763e9f/J111.pdf, œ0.25 , œ0.25 
-"R1,R2,R8,R14,R18",1M,MF12 1M,5,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE04070,~, œ0.03 , œ0.14 
-"R3,R6",1K,MF50 1K,2,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05031,~, œ0.05 , œ0.10 
-"R4,R10",47,MF50 47R,2,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05013,~, œ0.04 , œ0.08 
-R5,560,MF50 560R,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05027,~, œ0.04 , œ0.04 
-R7,1.5K,MCF 0.5W 1K5,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE04479,~, œ0.03 , œ0.03 
-R9,10K,MF50 10K,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05044,~, œ0.02 , œ0.02 
-"R11,R12",100K,MF50 100K,2,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05057,~, œ0.06 , œ0.11 
-R13,2.2k,MF50 2K2,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05035,~, œ0.06 , œ0.06 
-"R15,R16,R17",22k,MF50 22K,3,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05048,~, œ0.04 , œ0.13 
-"RV1-GAIN1,RV2-FILTER1,RV3-VOL1",100K,PTV09A-4225F-B104,3,,,,Daves customs:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,RS,827-5022,~, œ1.07 , œ3.21 
-RV4-BLEND1,100K,RD902F 100k,1,,,,Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical,Ebay,,~, œ1.50 , œ1.50 
-S1,SWITCH-3PDT,,1,,,,Daves customs:3PDT,Ebay,,, œ1.03 , œ1.03 
-SW3,SW_Rotary4x3,CK1052,1,,,,Daves customs:RS26,CPC,SW02750,http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf, œ3.06 , œ3.06 
-SW8,SW_Rotary2x6,CK1050,1,,,,Daves customs:RS26,CPC,SW02748,http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf, œ2.98 , œ2.98 
-U1,OP07CP,OP07CP,1,,,,PCM_Package_DIP_AKL:DIP-8_W7.62mm_LongPads,CPC,SC16157,http://web.mit.edu/6.301/www/LM108.pdf, œ2.38 , œ2.38 
-"U2,U3",TL072ACP,TL072CP,2,,,,PCM_Package_DIP_AKL:DIP-8_W7.62mm_LongPads,CPC,SC17220,https://www.ti.com/lit/ds/symlink/tl072h.pdf?ts=1635057479364, œ1.20 , œ2.40 
-Yellow Enclosure,1590,1590BBYL,1,,,,No footprint,CPC,EN84638,IP54 Die Cast Aluminium Instrument Enclosure - 119x94x30mm - Hammond | CPC, œ12.79 , œ12.79 
-PCB,,,1,,,,,JLC PCB,,, œ5.18 , œ5.18 
-,,,,,,,,,,,Total, œ43.34 
+Reference,Value,Manufacturer No,Qty,per batch,DNP,Exclude from BOM,Exclude from Board,Footprint,Supplier,Order code,Datasheet,Unit Price (inc VAT),Subtotal,Batch price
+"C1,C9",22n,K223K15X7RF5UH5,2,10,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA10734,~, œ0.08 , œ0.16 , œ0.80 
+C2,1n,K102J15C0GF53L2,1,5,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06816,~, œ0.10 , œ0.10 , œ0.50 
+C4,100p,K101J15C0GF53L2,1,5,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06809,~, œ0.06 , œ0.06 , œ0.30 
+C5,2.2u,50ML2R2MEFC4X5,1,5,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA07533,~, œ0.26 , œ0.26 , œ1.30 
+"C6,C7",4.7u,50MS54R7M0557,2,10,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA05565,~, œ0.18 , œ0.36 , œ1.80 
+C8,3.3n,MCRR50332X7RK0100,1,5,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06300,~, œ0.16 , œ0.16 , œ0.80 
+"C10,C13,C19",1u,MCGPR50V105M5X11,3,1,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA04763,~, œ0.25 , œ0.75 , œ0.25 
+C11,100u,25YXJ100M5X11,1,5,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA09737,~, œ0.11 , œ0.11 , œ0.55 
+C12,0.1u,K104K15X7RF53L2,1,5,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06802,~, œ0.12 , œ0.12 , œ0.60 
+C14,10u,MCGPR25V106M5X11,1,1,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA04744,~, œ0.28 , œ0.28 , œ0.28 
+C15,22u,MCGPR25V226M5X11,1,1,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,CPC,CA04745,~, œ0.29 , œ0.29 , œ0.29 
+C16,68p,K680J15C0GF53L2,1,5,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06821,~, œ0.16 , œ0.16 , œ0.80 
+C17,47p,K470J15C0GF53L2,1,5,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06814,~, œ0.17 , œ0.17 , œ0.85 
+"C18, C21",470n,MCRR50474Z5UM0050,2,10,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA05523,~, œ0.50 , œ1.00 , œ5.00 
+C20,220n,K224K20X7RF53L2,1,5,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06812,~, œ0.42 , œ0.42 , œ2.10 
+C22,33p,K330J15C0GF53L2,1,5,,,,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,CPC,CA06806,~, œ0.38 , œ0.38 , œ1.90 
+"D1,D2",1N914,1N914,2,10,,,,PCM_Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal,CPC,SC08157,https://datasheet.octopart.com/1N914ATR-ON-Semiconductor-datasheet-42765246.pdf, œ0.04 , œ0.08 , œ0.40 
+D3,1N4002,1N4002G,1,5,,,,PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal,CPC,SC17771,https://www.tme.eu/Document/5f8ffc5ac30fc86bac97d66040bf5502/1n400x.pdf, œ0.06 , œ0.06 , œ0.30 
+"D4,D5,D6",Red,MP006838,3,15,,,,PCM_SparkFun-LED:LED_5mm_PTH_Red_NoSilk,CPC,SC19413,https://cdn.sparkfun.com/assets/e/c/e/c/5/COM-09590-YSL-R531R3D-D2.pdf, œ0.07 , œ0.21 , œ1.05 
+"D7,D8",BAT41,BAT41,2,10,,,,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,CPC,SC07323,http://www.vishay.com/docs/85659/bat41.pdf, œ0.26 , œ0.52 , œ2.60 
+"J1,J2",AudioJack2,NYS229,2,10,,,,Off-board wiring,CPC,CN26775,~, œ0.75 , œ1.50 , œ7.50 
+J6,Barrel_Jack,PPW01004,1,3,,,,Off-board wiring,CPC,AV15144,~, œ0.71 , œ0.71 , œ2.13 
+Q1,J111,J111,1,5,,,,PCM_Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_DSG,CPC,SC12586,https://www.tme.eu/Document/2ab8d7a6d6d8a209f9d7deeb52763e9f/J111.pdf, œ0.25 , œ0.25 , œ1.25 
+"R1,R2,R8,R14,R18",1M,MF12 1M,5,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE04070,~, œ0.03 , œ0.14 , œ0.03 
+"R3,R6",1K,MF50 1K,2,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05031,~, œ0.05 , œ0.10 , œ0.05 
+"R4,R10",47,MF50 47R,2,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05013,~, œ0.04 , œ0.08 , œ0.04 
+R5,560,MF50 560R,1,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05027,~, œ0.04 , œ0.04 , œ0.04 
+R7,1.5K,MCF 0.5W 1K5,1,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE04479,~, œ0.03 , œ0.03 , œ0.03 
+R9,10K,MF50 10K,1,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05044,~, œ0.02 , œ0.02 , œ0.02 
+"R11,R12",100K,MF50 100K,2,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05057,~, œ0.06 , œ0.11 , œ0.06 
+R13,2.2k,MF50 2K2,1,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05035,~, œ0.06 , œ0.06 , œ0.06 
+"R15,R16,R17",22k,MF50 22K,3,1,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CPC,RE05048,~, œ0.04 , œ0.13 , œ0.04 
+"RV1-GAIN1,RV2-FILTER1",B100K,RD901F-40-15K-B100Kÿ,2,10,,,,Daves customs:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,Thonk,,~, œ-   , œ-   , œ-   
+RV3-VOL1,A100K,RD901F-40-15K-A100Kÿ,1,5,,,,,,,,,, œ-   
+RV4-BLEND1,B100K,RD902F-40-15K-B100Kÿ,1,5,,,,Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical,Thonk,,~, œ-   , œ-   , œ-   
+S1,SWITCH-3PDT,,1,5,,,,Daves customs:3PDT,Ebay,,, œ1.03 , œ1.03 , œ5.13 
+SW3,SW_Rotary4x3,CK1052,1,5,,,,Daves customs:RS26,CPC,SW02750,http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf, œ3.06 , œ3.06 , œ15.30 
+SW8,SW_Rotary2x6,CK1050,1,5,,,,Daves customs:RS26,CPC,SW02748,http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf, œ2.98 , œ2.98 , œ14.90 
+U1,OP07CP,OP07CP,1,5,,,,PCM_Package_DIP_AKL:DIP-8_W7.62mm_LongPads,CPC,SC16157,http://web.mit.edu/6.301/www/LM108.pdf, œ2.38 , œ2.38 , œ11.90 
+"U2,U3",TL072ACP,TL072CP,2,10,,,,PCM_Package_DIP_AKL:DIP-8_W7.62mm_LongPads,CPC,SC17220,https://www.ti.com/lit/ds/symlink/tl072h.pdf?ts=1635057479364, œ1.20 , œ2.40 , œ12.00 
+Yellow Enclosure,1590,1590BBYL,1,5,,,,No footprint,CPC,EN84638,IP54 Die Cast Aluminium Instrument Enclosure - 119x94x30mm - Hammond | CPC, œ12.79 , œ12.79 , œ63.95 
+PCB,,,1,5,,,,,JLC PCB,,, œ5.18 , œ5.18 , œ25.89 
+,,,,,,,,,,,,Total, œ38.63 , œ182.79 
