@@ -34,6 +34,14 @@ That's why we've decided to go custom, a brand new **RAT** clone built by **GORA
 ### Colour LED display
   Switch between red, green, and blue when the feedback capacitor selector is changed, easy to implement as the 4x3 rotarty switch has a free pole but version 1.1 has run out of board space.
 
+
+##Update 24/03/2026
+The PCB's have arrived!
+
+![PCBv1 1 delivery](https://github.com/user-attachments/assets/fb6d2f47-283c-4bdc-a9ea-be06932ab88e)
+
+
+
 ![LineDrawing](https://github.com/user-attachments/assets/71ea2c9e-8ac7-4d7f-a444-0364b5f20d94)
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
