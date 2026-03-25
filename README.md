@@ -39,9 +39,7 @@ That's why we've decided to go custom, a brand new **RAT** clone built by **GORA
 The PCB's have arrived!
 Due to the different heights of components, not to mention mechanical strain, I've designed the board to be printed as one piece that snaps off into three. The intention is that the breakout for the stomp button, and having flying wires for all of the jacks, will reduce the wear on the piece and contribute to a more professional finish.
 
-![PCBv1 1 delivery](https://github.com/user-attachments/assets/fb6d2f47-283c-4bdc-a9ea-be06932ab88e)
-
-
+![PCBv1 1 delivery](https://github.com/user-attachments/assets/74442926-34a3-4439-8fe9-4dab98e474ad)
 
 ![LineDrawing](https://github.com/user-attachments/assets/71ea2c9e-8ac7-4d7f-a444-0364b5f20d94)
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
