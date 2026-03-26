@@ -6002,18 +6002,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(rectangle
-		(start 123.19 138.43)
-		(end 176.53 195.58)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid f68900b9-eb84-4e12-9bb7-f67a06f5d305)
-	)
 	(text "Bass, Reg, Beans"
 		(exclude_from_sim no)
 		(at 32.766 51.816 0)
@@ -6026,19 +6014,9 @@
 		)
 		(uuid "2786fcac-eefa-4c8d-ac3f-d4bed3390674")
 	)
-	(text "3PDT switch breakout\n"
-		(exclude_from_sim no)
-		(at 146.558 156.718 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "f559403a-4b23-448f-a215-090ed57c6056")
-	)
 	(text_box "3PDT footswitch wiring\n"
 		(exclude_from_sim no)
-		(at 13.97 130.81 0)
+		(at -110.49 139.7 0)
 		(size 106.68 64.77)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -6131,7 +6109,7 @@
 		(uuid "2790f604-8240-4027-a85e-b7775d05b0a2")
 	)
 	(junction
-		(at 46.99 160.02)
+		(at 43.18 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "29f6cad7-bf52-4b6e-b1c8-800187a5b96a")
@@ -6341,7 +6319,7 @@
 		(uuid "f04a1948-2fe8-452e-a1a7-a5891b7c0bce")
 	)
 	(junction
-		(at 95.25 160.02)
+		(at 149.86 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f85b8244-78a4-4613-9c97-f5f3d21d6b10")
@@ -6394,7 +6372,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 182.88) (xy 135.89 182.88)
+			(xy 82.55 189.23) (xy 74.93 189.23)
 		)
 		(stroke
 			(width 0)
@@ -6414,7 +6392,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 154.94) (xy 83.82 154.94)
+			(xy 96.52 144.78) (xy 104.14 144.78)
 		)
 		(stroke
 			(width 0)
@@ -6494,7 +6472,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 152.4) (xy 104.14 152.4)
+			(xy 149.86 154.94) (xy 158.75 154.94)
 		)
 		(stroke
 			(width 0)
@@ -6514,7 +6492,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 162.56) (xy 76.2 162.56)
+			(xy 97.79 147.32) (xy 96.52 147.32)
 		)
 		(stroke
 			(width 0)
@@ -6614,7 +6592,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 162.56) (xy 67.31 154.94)
+			(xy 87.63 147.32) (xy 87.63 144.78)
 		)
 		(stroke
 			(width 0)
@@ -6734,13 +6712,23 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 161.29) (xy 46.99 160.02)
+			(xy 43.18 161.29) (xy 43.18 160.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3a8efbda-d8cd-4249-9792-7bfdaabe6678")
+	)
+	(wire
+		(pts
+			(xy 41.91 185.42) (xy 43.18 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c429fe3-2214-4414-b478-12b91b632608")
 	)
 	(wire
 		(pts
@@ -6804,7 +6792,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 180.34) (xy 58.42 182.88)
+			(xy 41.91 182.88) (xy 41.91 185.42)
 		)
 		(stroke
 			(width 0)
@@ -6864,7 +6852,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 182.88) (xy 162.56 182.88)
+			(xy 101.6 189.23) (xy 106.68 189.23)
 		)
 		(stroke
 			(width 0)
@@ -6964,7 +6952,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 152.4) (xy 55.88 152.4)
+			(xy 71.12 142.24) (xy 76.2 142.24)
 		)
 		(stroke
 			(width 0)
@@ -6974,7 +6962,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 175.26) (xy 53.34 175.26)
+			(xy 40.64 177.8) (xy 36.83 177.8)
 		)
 		(stroke
 			(width 0)
@@ -7054,7 +7042,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 154.94) (xy 40.64 154.94)
+			(xy 34.29 154.94) (xy 36.83 154.94)
 		)
 		(stroke
 			(width 0)
@@ -7094,7 +7082,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 172.72) (xy 96.52 176.53)
+			(xy 151.13 175.26) (xy 151.13 179.07)
 		)
 		(stroke
 			(width 0)
@@ -7124,7 +7112,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 165.1) (xy 143.51 165.1)
+			(xy 73.66 171.45) (xy 82.55 171.45)
 		)
 		(stroke
 			(width 0)
@@ -7164,7 +7152,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 165.1) (xy 162.56 165.1)
+			(xy 101.6 171.45) (xy 106.68 171.45)
 		)
 		(stroke
 			(width 0)
@@ -7184,7 +7172,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 149.86) (xy 83.82 149.86)
+			(xy 83.82 139.7) (xy 104.14 139.7)
 		)
 		(stroke
 			(width 0)
@@ -7204,7 +7192,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 154.94) (xy 40.64 160.02)
+			(xy 36.83 154.94) (xy 36.83 160.02)
 		)
 		(stroke
 			(width 0)
@@ -7364,7 +7352,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 182.88) (xy 162.56 186.69)
+			(xy 106.68 189.23) (xy 106.68 193.04)
 		)
 		(stroke
 			(width 0)
@@ -7414,7 +7402,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 175.26) (xy 166.37 175.26)
+			(xy 101.6 181.61) (xy 110.49 181.61)
 		)
 		(stroke
 			(width 0)
@@ -7504,7 +7492,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 162.56) (xy 76.2 154.94)
+			(xy 96.52 147.32) (xy 96.52 144.78)
 		)
 		(stroke
 			(width 0)
@@ -7564,7 +7552,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 154.94) (xy 104.14 160.02)
+			(xy 158.75 157.48) (xy 158.75 162.56)
 		)
 		(stroke
 			(width 0)
@@ -7594,7 +7582,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 160.02) (xy 46.99 160.02)
+			(xy 36.83 160.02) (xy 43.18 160.02)
 		)
 		(stroke
 			(width 0)
@@ -7674,7 +7662,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 179.07) (xy 71.12 175.26)
+			(xy 87.63 162.56) (xy 87.63 158.75)
 		)
 		(stroke
 			(width 0)
@@ -7754,7 +7742,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 175.26) (xy 72.39 175.26)
+			(xy 87.63 158.75) (xy 88.9 158.75)
 		)
 		(stroke
 			(width 0)
@@ -7774,7 +7762,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 179.07) (xy 71.12 179.07)
+			(xy 86.36 162.56) (xy 87.63 162.56)
 		)
 		(stroke
 			(width 0)
@@ -7784,7 +7772,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 180.34) (xy 58.42 180.34)
+			(xy 36.83 182.88) (xy 41.91 182.88)
 		)
 		(stroke
 			(width 0)
@@ -7804,7 +7792,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 170.18) (xy 69.85 170.18)
+			(xy 88.9 153.67) (xy 86.36 153.67)
 		)
 		(stroke
 			(width 0)
@@ -7854,7 +7842,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 182.88) (xy 135.89 185.42)
+			(xy 74.93 189.23) (xy 74.93 191.77)
 		)
 		(stroke
 			(width 0)
@@ -7874,7 +7862,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 154.94) (xy 63.5 154.94)
+			(xy 87.63 144.78) (xy 83.82 144.78)
 		)
 		(stroke
 			(width 0)
@@ -7904,7 +7892,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 152.4) (xy 46.99 152.4)
+			(xy 34.29 152.4) (xy 43.18 152.4)
 		)
 		(stroke
 			(width 0)
@@ -7974,7 +7962,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 175.26) (xy 143.51 175.26)
+			(xy 73.66 181.61) (xy 82.55 181.61)
 		)
 		(stroke
 			(width 0)
@@ -8024,7 +8012,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 172.72) (xy 80.01 172.72)
+			(xy 97.79 156.21) (xy 96.52 156.21)
 		)
 		(stroke
 			(width 0)
@@ -8094,7 +8082,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 160.02) (xy 95.25 161.29)
+			(xy 149.86 162.56) (xy 149.86 163.83)
 		)
 		(stroke
 			(width 0)
@@ -8204,7 +8192,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 160.02) (xy 104.14 160.02)
+			(xy 149.86 162.56) (xy 158.75 162.56)
 		)
 		(stroke
 			(width 0)
@@ -8274,7 +8262,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 149.86) (xy 91.44 152.4)
+			(xy 111.76 139.7) (xy 111.76 142.24)
 		)
 		(stroke
 			(width 0)
@@ -8353,7 +8341,7 @@
 		(uuid "ff5ca002-9178-41c9-92ae-d3f037c19fee")
 	)
 	(label "JackIn2"
-		(at 50.8 152.4 0)
+		(at 71.12 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8363,7 +8351,7 @@
 		(uuid "01ae0f6c-fce1-4ee1-b445-cddbb4c8e9ac")
 	)
 	(label "Bypass"
-		(at 71.12 149.86 0)
+		(at 91.44 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8373,7 +8361,7 @@
 		(uuid "07ce2c0e-77d0-42e8-8f3c-2feffb35089c")
 	)
 	(label "JackOut1"
-		(at 143.51 170.18 180)
+		(at 82.55 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8383,7 +8371,7 @@
 		(uuid "337e5b8b-0137-4110-9cee-32ef5826c26f")
 	)
 	(label "JackIn1"
-		(at 143.51 167.64 180)
+		(at 82.55 173.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8393,7 +8381,7 @@
 		(uuid "3ef3a27b-6850-4b83-b317-b279dca4b718")
 	)
 	(label "JackOut2"
-		(at 91.44 149.86 0)
+		(at 111.76 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8403,7 +8391,7 @@
 		(uuid "545170a0-1c7b-437a-ae49-5782c52fa934")
 	)
 	(label "Off"
-		(at 69.85 170.18 0)
+		(at 86.36 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8413,7 +8401,7 @@
 		(uuid "5ccda47c-c2c0-4bf7-9e61-72e65635d462")
 	)
 	(label "+9v Jack2"
-		(at 69.85 179.07 180)
+		(at 86.36 162.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8423,7 +8411,7 @@
 		(uuid "6388ca7b-174b-457d-9c70-c001bbb83720")
 	)
 	(label "JackIn2"
-		(at 157.48 167.64 0)
+		(at 101.6 173.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8443,7 +8431,7 @@
 		(uuid "82fe1e14-69d7-48da-a020-b31325aae3da")
 	)
 	(label "+9v Jack1"
-		(at 143.51 177.8 180)
+		(at 82.55 184.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8453,7 +8441,7 @@
 		(uuid "8e79377e-a32d-48ce-9abb-6c4f1d48c68e")
 	)
 	(label "JackOut1"
-		(at 96.52 152.4 0)
+		(at 151.13 154.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8463,7 +8451,7 @@
 		(uuid "9ec1b44d-c2b5-4d50-ac7e-803fb2e721fe")
 	)
 	(label "+9v Jack1"
-		(at 57.15 175.26 0)
+		(at 40.64 177.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8473,7 +8461,7 @@
 		(uuid "b1919aca-5ccb-428a-8fca-60abd549cc48")
 	)
 	(label "JackIn1"
-		(at 41.91 152.4 0)
+		(at 38.1 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8483,7 +8471,7 @@
 		(uuid "c1cf0a06-13d1-4f46-a426-dd1e69f7b1fd")
 	)
 	(label "+9v Jack2"
-		(at 157.48 177.8 0)
+		(at 101.6 184.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8493,7 +8481,7 @@
 		(uuid "cfb328ad-c476-49b4-90c0-369328a58ef6")
 	)
 	(label "JackOut2"
-		(at 157.48 170.18 0)
+		(at 101.6 176.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8504,7 +8492,7 @@
 	)
 	(global_label "Vin1"
 		(shape input)
-		(at 96.52 172.72 180)
+		(at 151.13 175.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8514,7 +8502,7 @@
 		)
 		(uuid "00a2f753-fb85-4a8c-a684-6800ce8e671d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 89.4829 172.72 0)
+			(at 144.0929 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8526,7 +8514,7 @@
 	)
 	(global_label "Vin2"
 		(shape input)
-		(at 81.28 172.72 0)
+		(at 97.79 156.21 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8536,7 +8524,7 @@
 		)
 		(uuid "11a6c445-fa20-40a0-8408-5d9ac5411f9a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.3171 172.72 0)
+			(at 104.8271 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8548,7 +8536,7 @@
 	)
 	(global_label "SigIn2"
 		(shape input)
-		(at 67.31 162.56 180)
+		(at 87.63 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8558,7 +8546,7 @@
 		)
 		(uuid "12b67c7e-da83-4555-9ff8-48529e766ee8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 58.3982 162.56 0)
+			(at 78.7182 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8570,7 +8558,7 @@
 	)
 	(global_label "Vin1"
 		(shape input)
-		(at 143.51 180.34 180)
+		(at 82.55 186.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8580,7 +8568,7 @@
 		)
 		(uuid "2145fb52-b19b-494d-bf0e-3d1edf7db591")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 136.4729 180.34 0)
+			(at 75.5129 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8636,7 +8624,7 @@
 	)
 	(global_label "SigOut2"
 		(shape input)
-		(at 166.37 175.26 0)
+		(at 110.49 181.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8646,7 +8634,7 @@
 		)
 		(uuid "3bd64fd5-a2a6-4a58-bec2-421a98350fa6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 176.7332 175.26 0)
+			(at 120.8532 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8658,7 +8646,7 @@
 	)
 	(global_label "SigOut1"
 		(shape input)
-		(at 134.62 175.26 180)
+		(at 73.66 181.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8668,7 +8656,7 @@
 		)
 		(uuid "3c75563a-e9b5-4184-a9c2-41bd6e772669")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.2568 175.26 0)
+			(at 63.2968 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8702,7 +8690,7 @@
 	)
 	(global_label "SigOut2"
 		(shape input)
-		(at 77.47 162.56 0)
+		(at 97.79 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8712,7 +8700,7 @@
 		)
 		(uuid "4a8d6c5b-7d62-4df8-b617-9e382a1771d2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 87.8332 162.56 0)
+			(at 108.1532 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8746,7 +8734,7 @@
 	)
 	(global_label "SigIn2"
 		(shape input)
-		(at 157.48 172.72 0)
+		(at 101.6 179.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8756,7 +8744,7 @@
 		)
 		(uuid "5a1e01c5-dca0-4181-8029-2f6edfd200d0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.3918 172.72 0)
+			(at 110.5118 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8768,7 +8756,7 @@
 	)
 	(global_label "Bypass1"
 		(shape input)
-		(at 134.62 165.1 180)
+		(at 73.66 171.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8778,7 +8766,7 @@
 		)
 		(uuid "6e90d679-dea4-4436-b653-7e673efe44dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.8335 165.1 0)
+			(at 62.8735 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8788,7 +8776,7 @@
 			)
 		)
 	)
-	(global_label "SigOut"
+	(global_label "SigOut1"
 		(shape input)
 		(at 256.54 124.46 0)
 		(fields_autoplaced yes)
@@ -8800,7 +8788,7 @@
 		)
 		(uuid "81c5e08f-366e-4cd8-a50b-a1e622906541")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 265.6937 124.46 0)
+			(at 266.9032 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8832,7 +8820,7 @@
 			)
 		)
 	)
-	(global_label "SigIn"
+	(global_label "SigIn1"
 		(shape input)
 		(at 33.02 77.47 180)
 		(fields_autoplaced yes)
@@ -8844,7 +8832,7 @@
 		)
 		(uuid "bf109650-ff72-49ce-bb07-4ed9468d213e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.3177 77.47 0)
+			(at 24.1082 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8856,7 +8844,7 @@
 	)
 	(global_label "Bypass2"
 		(shape input)
-		(at 162.56 165.1 0)
+		(at 106.68 171.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8866,7 +8854,7 @@
 		)
 		(uuid "cbfd708b-0067-4bee-b093-58ab757897e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 173.3465 165.1 0)
+			(at 117.4665 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8878,7 +8866,7 @@
 	)
 	(global_label "SigIn1"
 		(shape input)
-		(at 143.51 172.72 180)
+		(at 82.55 179.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8888,7 +8876,7 @@
 		)
 		(uuid "d43be294-22fd-4753-a575-3546d3bb9ae9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 134.5982 172.72 0)
+			(at 73.6382 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8922,7 +8910,7 @@
 	)
 	(global_label "Vin2"
 		(shape input)
-		(at 157.48 180.34 0)
+		(at 101.6 186.69 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8932,7 +8920,7 @@
 		)
 		(uuid "e9ba5492-cc85-495c-9ece-02027af878fc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 164.5171 180.34 0)
+			(at 108.6371 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9263,7 +9251,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-LED:LED_Red_5mm_PTH_NoSilk")
-		(at 96.52 179.07 90)
+		(at 151.13 181.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9272,7 +9260,7 @@
 		(fields_autoplaced yes)
 		(uuid "08cacf70-faee-4b03-8f94-ff1ebba621bb")
 		(property "Reference" "D4"
-			(at 99.06 177.7364 90)
+			(at 153.67 180.2764 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9281,7 +9269,7 @@
 			)
 		)
 		(property "Value" "Red"
-			(at 99.06 180.2764 90)
+			(at 153.67 182.8164 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9290,7 +9278,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-LED:LED_5mm_PTH_Red_NoSilk"
-			(at 101.6 179.07 0)
+			(at 156.21 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9299,7 +9287,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/e/c/e/c/5/COM-09590-YSL-R531R3D-D2.pdf"
-			(at 106.68 179.07 0)
+			(at 161.29 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9308,7 +9296,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode PTH 5mm diameter"
-			(at 109.22 179.07 0)
+			(at 163.83 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9317,7 +9305,7 @@
 			)
 		)
 		(property "PROD_ID" "DIO-09529"
-			(at 104.14 179.07 0)
+			(at 158.75 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9326,7 +9314,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 96.52 179.07 90)
+			(at 151.13 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9335,7 +9323,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 96.52 179.07 90)
+			(at 151.13 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9344,7 +9332,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 96.52 179.07 90)
+			(at 151.13 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9353,7 +9341,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 96.52 179.07 90)
+			(at 151.13 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9362,7 +9350,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 96.52 179.07 90)
+			(at 151.13 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9371,7 +9359,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 96.52 179.07 90)
+			(at 151.13 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9380,7 +9368,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 96.52 179.07 90)
+			(at 151.13 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9389,7 +9377,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 96.52 179.07 90)
+			(at 151.13 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9398,7 +9386,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 96.52 179.07 90)
+			(at 151.13 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10265,7 +10253,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Barrel_Jack")
-		(at 45.72 177.8 0)
+		(at 29.21 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10274,7 +10262,7 @@
 		(fields_autoplaced yes)
 		(uuid "0cd0651f-3e8e-4d25-a855-df6afb569419")
 		(property "Reference" "J6"
-			(at 45.72 168.91 0)
+			(at 29.21 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10282,7 +10270,7 @@
 			)
 		)
 		(property "Value" "Barrel_Jack"
-			(at 45.72 171.45 0)
+			(at 29.21 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10290,7 +10278,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm"
-			(at 46.99 178.816 0)
+			(at 30.48 181.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10299,7 +10287,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 178.816 0)
+			(at 30.48 181.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10308,7 +10296,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack"
-			(at 45.72 177.8 0)
+			(at 29.21 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10317,7 +10305,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 45.72 177.8 0)
+			(at 29.21 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10326,7 +10314,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 45.72 177.8 0)
+			(at 29.21 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10335,7 +10323,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 45.72 177.8 0)
+			(at 29.21 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10344,7 +10332,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 45.72 177.8 0)
+			(at 29.21 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10353,7 +10341,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 45.72 177.8 0)
+			(at 29.21 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10362,7 +10350,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 45.72 177.8 0)
+			(at 29.21 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10371,7 +10359,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 45.72 177.8 0)
+			(at 29.21 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10380,7 +10368,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 45.72 177.8 0)
+			(at 29.21 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10389,7 +10377,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 45.72 177.8 0)
+			(at 29.21 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13082,7 +13070,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x08_Socket")
-		(at 152.4 172.72 0)
+		(at 96.52 179.07 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13091,7 +13079,7 @@
 		(dnp no)
 		(uuid "356e248d-ef46-4efa-8ec3-725882a02116")
 		(property "Reference" "J4"
-			(at 165.1 156.718 0)
+			(at 109.22 163.068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13100,7 +13088,7 @@
 			)
 		)
 		(property "Value" "Conn_01x08_Socket"
-			(at 165.1 159.258 0)
+			(at 109.22 165.608 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13109,7 +13097,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13118,7 +13106,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13127,7 +13115,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13136,7 +13124,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13145,7 +13133,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13154,7 +13142,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13163,7 +13151,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13172,7 +13160,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13181,7 +13169,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13190,7 +13178,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13199,7 +13187,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13208,7 +13196,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 152.4 172.72 0)
+			(at 96.52 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13655,7 +13643,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 46.99 161.29 0)
+		(at 43.18 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13664,7 +13652,7 @@
 		(fields_autoplaced yes)
 		(uuid "3b44b144-660a-4170-9f27-45ff4cf3ceff")
 		(property "Reference" "#PWR01"
-			(at 46.99 167.64 0)
+			(at 43.18 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13673,7 +13661,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 46.99 165.1 0)
+			(at 43.18 165.1 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -13682,7 +13670,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 161.29 0)
+			(at 43.18 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13691,7 +13679,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 161.29 0)
+			(at 43.18 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13700,7 +13688,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 46.99 170.18 0)
+			(at 43.18 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14672,7 +14660,7 @@
 	(symbol
 		(lib_name "AudioJack2_1")
 		(lib_id "Connector_Audio:AudioJack2")
-		(at 33.02 152.4 0)
+		(at 29.21 152.4 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14681,7 +14669,7 @@
 		(dnp no)
 		(uuid "4f1876ff-570e-4262-8375-c6853972cc2d")
 		(property "Reference" "J1"
-			(at 27.94 151.7649 0)
+			(at 24.13 151.7649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14690,7 +14678,7 @@
 			)
 		)
 		(property "Value" "AudioJack2"
-			(at 27.94 154.3049 0)
+			(at 24.13 154.3049 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14699,7 +14687,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm"
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14708,7 +14696,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14717,7 +14705,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 2 Poles (Mono / TS)"
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14726,7 +14714,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14735,7 +14723,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14744,7 +14732,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14753,7 +14741,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14762,7 +14750,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14771,7 +14759,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14780,7 +14768,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14789,7 +14777,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14798,7 +14786,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 33.02 152.4 0)
+			(at 29.21 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15543,7 +15531,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 162.56 186.69 0)
+		(at 106.68 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15552,7 +15540,7 @@
 		(fields_autoplaced yes)
 		(uuid "5a70fb72-c732-4ec4-a6c3-bf0441fba29c")
 		(property "Reference" "#PWR025"
-			(at 162.56 193.04 0)
+			(at 106.68 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15561,7 +15549,7 @@
 			)
 		)
 		(property "Value" "GND2"
-			(at 162.56 190.5 0)
+			(at 106.68 196.85 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -15570,7 +15558,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 186.69 0)
+			(at 106.68 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15579,7 +15567,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 186.69 0)
+			(at 106.68 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15588,7 +15576,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 162.56 195.58 0)
+			(at 106.68 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17187,7 +17175,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 46.99 156.21 180)
+		(at 43.18 156.21 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17196,7 +17184,7 @@
 		(fields_autoplaced yes)
 		(uuid "86206941-0d37-4578-8d87-f61d8fb27e54")
 		(property "Reference" "R1"
-			(at 49.53 154.9399 0)
+			(at 45.72 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17205,7 +17193,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 49.53 157.4799 0)
+			(at 45.72 157.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17214,7 +17202,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 48.768 156.21 90)
+			(at 44.958 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17223,7 +17211,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17232,7 +17220,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17241,7 +17229,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17250,7 +17238,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17259,7 +17247,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17268,7 +17256,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17277,7 +17265,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17286,7 +17274,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17295,7 +17283,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17304,7 +17292,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17313,7 +17301,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 46.99 156.21 0)
+			(at 43.18 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17553,7 +17541,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x08_Socket")
-		(at 148.59 172.72 0)
+		(at 87.63 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17561,7 +17549,7 @@
 		(dnp no)
 		(uuid "8b150297-41ed-4de4-bc36-132a50ea9edb")
 		(property "Reference" "J3"
-			(at 139.7 158.75 0)
+			(at 78.74 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17570,7 +17558,7 @@
 			)
 		)
 		(property "Value" "Conn_01x08_Socket"
-			(at 139.7 161.29 0)
+			(at 78.74 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17579,7 +17567,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17588,7 +17576,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17597,7 +17585,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17606,7 +17594,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17615,7 +17603,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17624,7 +17612,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17633,7 +17621,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17642,7 +17630,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17651,7 +17639,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17660,7 +17648,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17669,7 +17657,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17678,7 +17666,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 148.59 172.72 0)
+			(at 87.63 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18891,7 +18879,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 96.52 189.23 0)
+		(at 151.13 191.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18900,7 +18888,7 @@
 		(fields_autoplaced yes)
 		(uuid "a6406c41-78cf-4871-8b02-5642c886a72b")
 		(property "Reference" "#PWR024"
-			(at 96.52 195.58 0)
+			(at 151.13 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18909,7 +18897,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 96.52 193.04 0)
+			(at 151.13 195.58 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -18918,7 +18906,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 96.52 189.23 0)
+			(at 151.13 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18927,7 +18915,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 189.23 0)
+			(at 151.13 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18936,7 +18924,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 96.52 198.12 0)
+			(at 151.13 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18958,7 +18946,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Electromechanical:SWITCH-3PDT")
-		(at 60.96 152.4 0)
+		(at 81.28 142.24 0)
 		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
@@ -18967,7 +18955,7 @@
 		(dnp no)
 		(uuid "a735b4d5-6be6-4405-a434-8c5e4356ccba")
 		(property "Reference" "S1"
-			(at 60.198 146.812 0)
+			(at 80.518 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18975,7 +18963,7 @@
 			)
 		)
 		(property "Value" "SWITCH-3PDT"
-			(at 60.198 144.272 0)
+			(at 80.518 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18983,7 +18971,7 @@
 			)
 		)
 		(property "Footprint" "Daves customs:3PDT"
-			(at 61.722 156.21 0)
+			(at 82.042 146.05 0)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -18992,7 +18980,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19001,7 +18989,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19010,7 +18998,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19019,7 +19007,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19028,7 +19016,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19037,7 +19025,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19046,7 +19034,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19055,7 +19043,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19064,7 +19052,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19073,7 +19061,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19082,7 +19070,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 60.96 152.4 0)
+			(at 81.28 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19493,7 +19481,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Electromechanical:SWITCH-3PDT")
-		(at 74.93 172.72 180)
+		(at 91.44 156.21 180)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19501,7 +19489,7 @@
 		(dnp no)
 		(uuid "b1a599c4-b4e2-43b6-af15-0b2a600c469b")
 		(property "Reference" "S1"
-			(at 79.756 166.116 0)
+			(at 96.266 149.606 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19509,7 +19497,7 @@
 			)
 		)
 		(property "Value" "SWITCH-3PDT"
-			(at 79.756 168.656 0)
+			(at 96.266 152.146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19517,7 +19505,7 @@
 			)
 		)
 		(property "Footprint" "Daves customs:3PDT"
-			(at 74.168 176.53 0)
+			(at 90.678 160.02 0)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -19526,7 +19514,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19535,7 +19523,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19544,7 +19532,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19553,7 +19541,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19562,7 +19550,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19571,7 +19559,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19580,7 +19568,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19589,7 +19577,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19598,7 +19586,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19607,7 +19595,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19616,7 +19604,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 74.93 172.72 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19662,7 +19650,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Electromechanical:SWITCH-3PDT")
-		(at 86.36 152.4 180)
+		(at 106.68 142.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19670,7 +19658,7 @@
 		(dnp no)
 		(uuid "b4e19b51-3eba-4e3f-b610-545ad30f3d92")
 		(property "Reference" "S1"
-			(at 86.36 146.812 0)
+			(at 106.68 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19678,7 +19666,7 @@
 			)
 		)
 		(property "Value" "SWITCH-3PDT"
-			(at 86.36 144.272 0)
+			(at 106.68 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19686,7 +19674,7 @@
 			)
 		)
 		(property "Footprint" "Daves customs:3PDT"
-			(at 85.598 156.21 0)
+			(at 105.918 146.05 0)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -19695,7 +19683,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19704,7 +19692,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19713,7 +19701,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19722,7 +19710,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19731,7 +19719,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19740,7 +19728,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19749,7 +19737,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19758,7 +19746,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19767,7 +19755,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19776,7 +19764,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19785,7 +19773,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 86.36 152.4 0)
+			(at 106.68 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20598,7 +20586,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 58.42 182.88 0)
+		(at 43.18 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20607,7 +20595,7 @@
 		(fields_autoplaced yes)
 		(uuid "ccd8acd6-f7de-4e5c-9198-6558cbc53b0b")
 		(property "Reference" "#PWR021"
-			(at 58.42 189.23 0)
+			(at 43.18 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20616,7 +20604,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.42 186.69 0)
+			(at 43.18 189.23 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -20625,7 +20613,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 182.88 0)
+			(at 43.18 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20634,7 +20622,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 182.88 0)
+			(at 43.18 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20643,7 +20631,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 58.42 191.77 0)
+			(at 43.18 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21501,7 +21489,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 135.89 185.42 0)
+		(at 74.93 191.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21510,7 +21498,7 @@
 		(fields_autoplaced yes)
 		(uuid "dfd9575b-894d-4262-91fd-128fc64d3b76")
 		(property "Reference" "#PWR07"
-			(at 135.89 191.77 0)
+			(at 74.93 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21519,7 +21507,7 @@
 			)
 		)
 		(property "Value" "GND1"
-			(at 135.89 189.23 0)
+			(at 74.93 195.58 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -21528,7 +21516,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 185.42 0)
+			(at 74.93 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21537,7 +21525,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 185.42 0)
+			(at 74.93 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21546,7 +21534,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 194.31 0)
+			(at 74.93 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21568,7 +21556,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 96.52 185.42 0)
+		(at 151.13 187.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21577,7 +21565,7 @@
 		(fields_autoplaced yes)
 		(uuid "e3382f9a-cef6-48f2-ae85-c7dd949f1e67")
 		(property "Reference" "R13"
-			(at 99.06 184.1499 0)
+			(at 153.67 186.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21586,7 +21574,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 99.06 186.6899 0)
+			(at 153.67 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21595,7 +21583,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 94.742 185.42 90)
+			(at 149.352 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21604,7 +21592,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21613,7 +21601,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21622,7 +21610,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21631,7 +21619,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21640,7 +21628,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21649,7 +21637,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21658,7 +21646,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21667,7 +21655,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21676,7 +21664,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21685,7 +21673,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21694,7 +21682,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 96.52 185.42 0)
+			(at 151.13 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21719,7 +21707,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 95.25 161.29 0)
+		(at 149.86 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21728,7 +21716,7 @@
 		(fields_autoplaced yes)
 		(uuid "e45aacc1-cf27-41ef-ad55-1658d6bf4916")
 		(property "Reference" "#PWR08"
-			(at 95.25 167.64 0)
+			(at 149.86 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21737,7 +21725,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 95.25 165.1 0)
+			(at 149.86 167.64 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -21746,7 +21734,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 161.29 0)
+			(at 149.86 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21755,7 +21743,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 161.29 0)
+			(at 149.86 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21764,7 +21752,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 170.18 0)
+			(at 149.86 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21934,7 +21922,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 95.25 156.21 180)
+		(at 149.86 158.75 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21943,7 +21931,7 @@
 		(fields_autoplaced yes)
 		(uuid "ea7c2d03-5e16-4826-85d1-5a907cfdb233")
 		(property "Reference" "R14"
-			(at 97.79 154.9399 0)
+			(at 152.4 157.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21952,7 +21940,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 97.79 157.4799 0)
+			(at 152.4 160.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21961,7 +21949,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 97.028 156.21 90)
+			(at 151.638 158.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21970,7 +21958,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21979,7 +21967,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21988,7 +21976,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21997,7 +21985,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22006,7 +21994,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22015,7 +22003,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22024,7 +22012,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22033,7 +22021,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22042,7 +22030,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22051,7 +22039,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22060,7 +22048,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 95.25 156.21 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22750,7 +22738,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack2")
-		(at 109.22 152.4 180)
+		(at 163.83 154.94 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22759,7 +22747,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb674bc5-b5e8-4865-bcb6-53aeaa7c8652")
 		(property "Reference" "J2"
-			(at 114.3 151.7649 0)
+			(at 168.91 154.3049 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22768,7 +22756,7 @@
 			)
 		)
 		(property "Value" "AudioJack2"
-			(at 114.3 154.3049 0)
+			(at 168.91 156.8449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22777,7 +22765,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm"
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22786,7 +22774,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22795,7 +22783,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 2 Poles (Mono / TS)"
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22804,7 +22792,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22813,7 +22801,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22822,7 +22810,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22831,7 +22819,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22840,7 +22828,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22849,7 +22837,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22858,7 +22846,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22867,7 +22855,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22876,7 +22864,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 109.22 152.4 0)
+			(at 163.83 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
