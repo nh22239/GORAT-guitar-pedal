@@ -2150,8 +2150,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 17.78 0)
+			(property "Reference" "SW8"
+				(at 1.27 20.32 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2159,14 +2159,14 @@
 				)
 			)
 			(property "Value" "SW_Rotary2x6"
-				(at 0 -17.78 0)
+				(at 1.27 17.78 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Daves customs:RS26"
 				(at -2.54 15.24 0)
 				(effects
 					(font
@@ -2185,6 +2185,87 @@
 				)
 			)
 			(property "Description" "2 rotary switch with 6 positions"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Availability" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description_1" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MP" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Price" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Type" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -2612,42 +2693,6 @@
 			)
 			(symbol "SW_Rotary2x6_0_1"
 				(pin passive line
-					(at -10.16 7.62 0)
-					(length 5.08)
-					(name "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -10.16 -10.16 0)
-					(length 5.08)
-					(name "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at 12.7 15.24 180)
 					(length 5.08)
 					(name "1"
@@ -2864,6 +2909,44 @@
 					)
 				)
 			)
+			(symbol "SW_Rotary2x6_1_1"
+				(pin passive line
+					(at -10.16 7.62 0)
+					(length 5.08)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -10.16 0)
+					(length 5.08)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
 			(embedded_fonts no)
 		)
 		(symbol "KRS_Switch:SW_Rotary4x3"
@@ -2874,8 +2957,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 20.32 0)
+			(property "Reference" "SW3"
+				(at 1.27 22.86 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2883,14 +2966,14 @@
 				)
 			)
 			(property "Value" "SW_Rotary4x3"
-				(at 0 -20.32 0)
+				(at 1.27 20.32 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Daves customs:RS26"
 				(at -2.54 22.86 0)
 				(effects
 					(font
@@ -2909,6 +2992,87 @@
 				)
 			)
 			(property "Description" "4 rotary switches with 3 positions"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Availability" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description_1" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MP" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Price" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Type" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -3478,78 +3642,6 @@
 			)
 			(symbol "SW_Rotary4x3_0_1"
 				(pin passive line
-					(at -10.16 15.24 0)
-					(length 5.08)
-					(name "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -10.16 5.08 0)
-					(length 5.08)
-					(name "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -10.16 -5.08 0)
-					(length 5.08)
-					(name "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -10.16 -15.24 0)
-					(length 5.08)
-					(name "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at 12.7 17.78 180)
 					(length 5.08)
 					(name "1"
@@ -3758,6 +3850,80 @@
 						)
 					)
 					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "SW_Rotary4x3_1_1"
+				(pin passive line
+					(at -10.16 15.24 0)
+					(length 5.08)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 5.08 0)
+					(length 5.08)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -5.08 0)
+					(length 5.08)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -15.24 0)
+					(length 5.08)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6151,12 +6317,6 @@
 		(uuid "4d563fbc-6c76-444c-9714-24b8c0514df0")
 	)
 	(junction
-		(at 110.49 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "55c627e6-49a8-4254-8c43-fc880c944c7e")
-	)
-	(junction
 		(at 198.12 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6239,6 +6399,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b0b6939-3338-4aa0-9ddb-68e8888849e3")
+	)
+	(junction
+		(at 129.54 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f7df7b0-1db0-4eea-b6c5-a2e95424c66d")
 	)
 	(junction
 		(at 22.86 44.45)
@@ -6639,6 +6805,16 @@
 			(type default)
 		)
 		(uuid "2c852e4d-8b3b-43ec-9316-b02a1a0e071f")
+	)
+	(wire
+		(pts
+			(xy 129.54 40.64) (xy 129.54 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ee806ec-88da-4f4d-9762-c02ee9c7d5ca")
 	)
 	(wire
 		(pts
@@ -7062,6 +7238,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 36.83) (xy 119.38 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72ed9831-f2bd-4998-aae7-b3c23c288b27")
+	)
+	(wire
+		(pts
 			(xy 247.65 76.2) (xy 247.65 78.74)
 		)
 		(stroke
@@ -7209,16 +7395,6 @@
 			(type default)
 		)
 		(uuid "7ff18cc8-41fa-4326-89ef-aaeac3a612d8")
-	)
-	(wire
-		(pts
-			(xy 110.49 26.67) (xy 110.49 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81e63761-dbc7-45c7-9fba-f990861fe718")
 	)
 	(wire
 		(pts
@@ -8042,16 +8218,6 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 36.83) (xy 119.38 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8c80bc3-2f03-4f44-8ba8-4a7830365842")
-	)
-	(wire
-		(pts
 			(xy 76.2 21.59) (xy 73.66 21.59)
 		)
 		(stroke
@@ -8142,7 +8308,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 36.83) (xy 110.49 40.64)
+			(xy 110.49 26.67) (xy 110.49 40.64)
 		)
 		(stroke
 			(width 0)
@@ -9277,7 +9443,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-LED:LED_5mm_PTH_Red_NoSilk"
+		(property "Footprint" "PCM_LED_THT_AKL:LED_D5.0mm"
 			(at 156.21 181.61 0)
 			(effects
 				(font
@@ -12083,7 +12249,7 @@
 		(pin "2"
 			(uuid "c4cb6131-5d5c-4e10-82eb-82ade1ce5e26")
 		)
-		(pin "14"
+		(pin "C"
 			(uuid "d8dc70d8-e108-4ec6-8444-af4122ff4a01")
 		)
 		(pin "9"
@@ -12098,7 +12264,7 @@
 		(pin "11"
 			(uuid "cad393e6-8257-40d3-b5f4-96ab2df8c098")
 		)
-		(pin "13"
+		(pin "A"
 			(uuid "6b67fe3e-429c-458b-87a4-07672a281f9f")
 		)
 		(pin "6"
@@ -16807,7 +16973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-LED:LED_5mm_PTH_Red_NoSilk"
+		(property "Footprint" "PCM_LED_THT_AKL:LED_D3.0mm"
 			(at 214.63 45.72 0)
 			(effects
 				(font
@@ -17114,10 +17280,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "81f6352e-1643-49ab-b3db-de33ef05b1a8")
 		(property "Reference" "TP2"
-			(at 104.14 70.3579 0)
+			(at 99.568 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17126,7 +17291,7 @@
 			)
 		)
 		(property "Value" "Pre-gain"
-			(at 104.14 72.8979 0)
+			(at 99.568 68.326 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18211,13 +18376,13 @@
 				(hide yes)
 			)
 		)
-		(pin "13"
+		(pin "A"
 			(uuid "bc9e6288-0f66-4191-8786-e7f8c49f1929")
 		)
-		(pin "14"
+		(pin "D"
 			(uuid "50454673-bb92-445e-bf02-33a081f456fb")
 		)
-		(pin "16"
+		(pin "C"
 			(uuid "159b7379-e39d-48dd-b443-db935b30770a")
 		)
 		(pin "4"
@@ -18226,7 +18391,7 @@
 		(pin "5"
 			(uuid "9ecc9217-7d43-4e92-9feb-7938ffee16cc")
 		)
-		(pin "15"
+		(pin "B"
 			(uuid "81bca390-86ad-4c4b-8d56-376d2c80552c")
 		)
 		(pin "1"
@@ -20978,7 +21143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-LED:LED_5mm_PTH_Red_NoSilk"
+		(property "Footprint" "PCM_LED_THT_AKL:LED_D3.0mm"
 			(at 215.9 27.94 0)
 			(effects
 				(font
