@@ -6489,6 +6489,18 @@
 		(uuid "07d7aa45-b9c6-4219-beeb-d5a39d7eb0b8")
 	)
 	(junction
+		(at 265.43 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08a535f9-79e4-460d-8ea2-bccfcfd55078")
+	)
+	(junction
+		(at 275.59 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "116b8514-1323-4cec-a545-aad0f9321637")
+	)
+	(junction
 		(at 100.33 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6549,12 +6561,6 @@
 		(uuid "2a44c249-e876-4ea1-93ba-7b091eafdc33")
 	)
 	(junction
-		(at 266.7 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2e1cee84-4e5b-46a6-a143-2d1ac2d50c15")
-	)
-	(junction
 		(at 64.77 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6597,6 +6603,12 @@
 		(uuid "43607a4e-31bd-4b5e-a0fe-d3d73f155bca")
 	)
 	(junction
+		(at 264.16 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4799c475-9da8-428b-8b89-068042447a95")
+	)
+	(junction
 		(at 119.38 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6607,12 +6619,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d563fbc-6c76-444c-9714-24b8c0514df0")
-	)
-	(junction
-		(at 265.43 25.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4fe1e1ff-cf7b-426f-b031-405a286b28a8")
 	)
 	(junction
 		(at 35.56 104.14)
@@ -6643,18 +6649,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "64a94683-c590-4279-9ab0-a534029b0b41")
-	)
-	(junction
-		(at 264.16 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a8ee16f-bb3a-463c-8bed-bd94c46d2012")
-	)
-	(junction
-		(at 275.59 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6bfe38eb-4401-47b0-bd7f-2bfb63e6449b")
 	)
 	(junction
 		(at 34.29 77.47)
@@ -6699,6 +6693,12 @@
 		(uuid "8b0b6939-3338-4aa0-9ddb-68e8888849e3")
 	)
 	(junction
+		(at 275.59 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9ca75562-479d-418d-9d49-1f45306534d6")
+	)
+	(junction
 		(at 264.16 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6729,12 +6729,6 @@
 		(uuid "ab28aed8-9669-4655-a21a-ab3fd773d16f")
 	)
 	(junction
-		(at 265.43 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "adf7def1-fbf7-4ecf-aa05-f3e0f2ce3e76")
-	)
-	(junction
 		(at 161.29 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6751,12 +6745,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c54e695e-8977-4d57-a48d-fb21eba36707")
-	)
-	(junction
-		(at 275.59 25.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c6ac39ba-8b6f-4a08-8016-ca38b7eac7ff")
 	)
 	(junction
 		(at 148.59 96.52)
@@ -6777,16 +6765,22 @@
 		(uuid "cfcf088d-56aa-4dcf-8665-db09c90dba4a")
 	)
 	(junction
+		(at 266.7 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d87cdada-4483-4fd7-832a-86394a8a1154")
+	)
+	(junction
+		(at 265.43 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db437f0d-3048-47cd-9aee-5f1b049e5f73")
+	)
+	(junction
 		(at 17.78 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e0701dc5-8f2a-4645-b6b8-ff81bc039268")
-	)
-	(junction
-		(at 275.59 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e545370d-03fe-408a-b482-562266bf6623")
 	)
 	(junction
 		(at 275.59 48.26)
@@ -6811,6 +6805,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f85b8244-78a4-4613-9c97-f5f3d21d6b10")
+	)
+	(junction
+		(at 275.59 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f947fcbf-e0f4-42a5-99f3-c56a514cc115")
 	)
 	(junction
 		(at 17.78 21.59)
@@ -6887,16 +6887,6 @@
 			(type default)
 		)
 		(uuid "062b6486-a008-4f92-95da-c70d849c9136")
-	)
-	(wire
-		(pts
-			(xy 275.59 30.48) (xy 275.59 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06313f8c-801d-41ac-8799-0496265a92b9")
 	)
 	(wire
 		(pts
@@ -7110,16 +7100,6 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 20.32) (xy 267.97 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2288c81e-0027-4a17-bb22-5dac6085b64d")
-	)
-	(wire
-		(pts
 			(xy 228.6 48.26) (xy 227.33 48.26)
 		)
 		(stroke
@@ -7177,16 +7157,6 @@
 			(type default)
 		)
 		(uuid "29d5d0cc-799a-48fe-9b0e-e122ba3d836c")
-	)
-	(wire
-		(pts
-			(xy 275.59 30.48) (xy 275.59 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29da6eee-ffe5-46aa-8a97-e9ea1fc9f401")
 	)
 	(wire
 		(pts
@@ -7287,6 +7257,16 @@
 			(type default)
 		)
 		(uuid "32f9a712-bf53-42f5-bc76-e8fada70c7bb")
+	)
+	(wire
+		(pts
+			(xy 266.7 38.1) (xy 267.97 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "352d33dc-12c6-406b-beb8-54078155ebb0")
 	)
 	(wire
 		(pts
@@ -7517,6 +7497,16 @@
 			(type default)
 		)
 		(uuid "5410fdd2-542a-4635-b21f-a5029404d162")
+	)
+	(wire
+		(pts
+			(xy 275.59 43.18) (xy 275.59 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56292715-0a07-4154-8869-2044fd5224f7")
 	)
 	(wire
 		(pts
@@ -8110,16 +8100,6 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 25.4) (xy 267.97 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96248131-69e3-4cb6-bdac-310c6af218dd")
-	)
-	(wire
-		(pts
 			(xy 254 40.64) (xy 264.16 40.64)
 		)
 		(stroke
@@ -8190,6 +8170,16 @@
 	)
 	(wire
 		(pts
+			(xy 275.59 25.4) (xy 275.59 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cef8639-9160-4176-b402-7f043c548dd9")
+	)
+	(wire
+		(pts
 			(xy 82.55 114.3) (xy 82.55 116.84)
 		)
 		(stroke
@@ -8250,7 +8240,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 50.8) (xy 266.7 38.1)
+			(xy 266.7 38.1) (xy 266.7 50.8)
 		)
 		(stroke
 			(width 0)
@@ -8297,16 +8287,6 @@
 			(type default)
 		)
 		(uuid "adeeae35-b68f-4089-8669-156036a43403")
-	)
-	(wire
-		(pts
-			(xy 275.59 48.26) (xy 275.59 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "adf8298b-7066-4804-8b7b-fd50f3b115d0")
 	)
 	(wire
 		(pts
@@ -8680,13 +8660,13 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 38.1) (xy 267.97 38.1)
+			(xy 265.43 20.32) (xy 267.97 20.32)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cb9a83ea-5df7-4e30-a7b7-5c2611ab80d3")
+		(uuid "cc5a4da8-c9df-4483-95ef-9cce12fcd7a4")
 	)
 	(wire
 		(pts
@@ -8730,13 +8710,13 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 43.18) (xy 267.97 43.18)
+			(xy 275.59 38.1) (xy 275.59 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d0805be8-7cfc-4bd9-a63a-7d4511a92d3d")
+		(uuid "d180c23e-551e-4fbe-bdce-62a1ccccb274")
 	)
 	(wire
 		(pts
@@ -8820,6 +8800,16 @@
 	)
 	(wire
 		(pts
+			(xy 275.59 30.48) (xy 275.59 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dce2a8ba-6afb-4be8-9adc-ec1564df9059")
+	)
+	(wire
+		(pts
 			(xy 73.66 181.61) (xy 82.55 181.61)
 		)
 		(stroke
@@ -8847,16 +8837,6 @@
 			(type default)
 		)
 		(uuid "e16dcd9f-17a2-4f5c-9b85-734c458581f3")
-	)
-	(wire
-		(pts
-			(xy 275.59 38.1) (xy 275.59 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2353bf3-9a0d-48a6-9e58-65e4eaca6af9")
 	)
 	(wire
 		(pts
@@ -8930,6 +8910,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 25.4) (xy 267.97 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee6e28b4-fb2b-4d02-8854-183b489d0503")
+	)
+	(wire
+		(pts
 			(xy 160.02 29.21) (xy 160.02 33.02)
 		)
 		(stroke
@@ -8947,6 +8937,16 @@
 			(type default)
 		)
 		(uuid "efd895ab-b952-4bbd-b97e-65c3017391b8")
+	)
+	(wire
+		(pts
+			(xy 264.16 43.18) (xy 267.97 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f08c4c5f-74b0-4498-863f-78b134f49f3d")
 	)
 	(wire
 		(pts
@@ -10329,7 +10329,7 @@
 	)
 	(symbol
 		(lib_id "Diode:BAT41")
-		(at 271.78 20.32 0)
+		(at 271.78 25.4 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10338,7 +10338,7 @@
 		(dnp no)
 		(uuid "09208b79-5020-43e0-926e-1fa930c40a8d")
 		(property "Reference" "D8"
-			(at 281.178 20.32 90)
+			(at 281.178 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10347,7 +10347,7 @@
 			)
 		)
 		(property "Value" "BAT41"
-			(at 278.638 20.32 90)
+			(at 278.638 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10356,7 +10356,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 271.78 24.765 0)
+			(at 271.78 29.845 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10365,7 +10365,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/85659/bat41.pdf"
-			(at 271.78 20.32 0)
+			(at 271.78 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10374,7 +10374,7 @@
 			)
 		)
 		(property "Description" "100V 0.1A Small Signal Schottky Diode, DO-35"
-			(at 271.78 20.32 0)
+			(at 271.78 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10383,7 +10383,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 271.78 20.32 90)
+			(at 271.78 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10392,7 +10392,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 271.78 20.32 90)
+			(at 271.78 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10401,7 +10401,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 271.78 20.32 90)
+			(at 271.78 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10410,7 +10410,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 271.78 20.32 90)
+			(at 271.78 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10419,7 +10419,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 271.78 20.32 90)
+			(at 271.78 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10428,7 +10428,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 271.78 20.32 90)
+			(at 271.78 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10437,7 +10437,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 271.78 20.32 90)
+			(at 271.78 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10446,7 +10446,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 271.78 20.32 90)
+			(at 271.78 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10455,7 +10455,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 271.78 20.32 90)
+			(at 271.78 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10851,7 +10851,7 @@
 	)
 	(symbol
 		(lib_id "PCM_Diode_AKL:1N914")
-		(at 271.78 25.4 0)
+		(at 271.78 20.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10859,7 +10859,7 @@
 		(dnp no)
 		(uuid "0cd0645f-8b02-4ec1-be87-6ee6597620a6")
 		(property "Reference" "D2"
-			(at 279.654 29.464 90)
+			(at 279.654 24.384 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10868,7 +10868,7 @@
 			)
 		)
 		(property "Value" "1N914"
-			(at 282.194 29.464 90)
+			(at 282.194 24.384 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10877,7 +10877,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 271.78 25.4 0)
+			(at 271.78 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10886,7 +10886,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.octopart.com/1N914ATR-ON-Semiconductor-datasheet-42765246.pdf"
-			(at 271.78 25.4 0)
+			(at 271.78 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10895,7 +10895,7 @@
 			)
 		)
 		(property "Description" "DO-35 Diode, Small Signal, Fast Switching, 75V, 200mA, 4ns, Alternate KiCad Library"
-			(at 271.78 25.4 0)
+			(at 271.78 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10904,7 +10904,7 @@
 			)
 		)
 		(property "Sim.Library" "C:\\Users\\nh22239\\Downloads\\1N914.lib"
-			(at 271.78 25.4 0)
+			(at 271.78 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10913,7 +10913,7 @@
 			)
 		)
 		(property "Sim.Name" "1N914"
-			(at 271.78 25.4 0)
+			(at 271.78 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10922,7 +10922,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 271.78 25.4 0)
+			(at 271.78 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10931,7 +10931,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=A 2=K"
-			(at 271.78 25.4 0)
+			(at 271.78 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10940,7 +10940,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 271.78 25.4 90)
+			(at 271.78 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10949,7 +10949,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 271.78 25.4 90)
+			(at 271.78 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10958,7 +10958,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 271.78 25.4 90)
+			(at 271.78 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10967,7 +10967,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 271.78 25.4 90)
+			(at 271.78 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10976,7 +10976,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 271.78 25.4 90)
+			(at 271.78 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10985,7 +10985,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 271.78 25.4 90)
+			(at 271.78 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10994,7 +10994,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 271.78 25.4 90)
+			(at 271.78 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11003,7 +11003,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 271.78 25.4 90)
+			(at 271.78 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11012,7 +11012,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 271.78 25.4 90)
+			(at 271.78 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14305,7 +14305,7 @@
 	)
 	(symbol
 		(lib_id "PCM_Diode_AKL:1N914")
-		(at 271.78 43.18 180)
+		(at 271.78 38.1 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14313,7 +14313,7 @@
 		(dnp no)
 		(uuid "39ea919c-86a1-4e00-b223-748906731be9")
 		(property "Reference" "D1"
-			(at 280.924 47.244 90)
+			(at 280.924 42.164 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14322,7 +14322,7 @@
 			)
 		)
 		(property "Value" "1N914"
-			(at 283.464 47.244 90)
+			(at 283.464 42.164 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14331,7 +14331,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 271.78 43.18 0)
+			(at 271.78 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14340,7 +14340,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.octopart.com/1N914ATR-ON-Semiconductor-datasheet-42765246.pdf"
-			(at 271.78 43.18 0)
+			(at 271.78 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14349,7 +14349,7 @@
 			)
 		)
 		(property "Description" "DO-35 Diode, Small Signal, Fast Switching, 75V, 200mA, 4ns, Alternate KiCad Library"
-			(at 271.78 43.18 0)
+			(at 271.78 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14358,7 +14358,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 271.78 43.18 0)
+			(at 271.78 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14367,7 +14367,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 271.78 43.18 0)
+			(at 271.78 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14376,7 +14376,7 @@
 			)
 		)
 		(property "Sim.Library" "C:\\Users\\nh22239\\Downloads\\1N914.lib"
-			(at 271.78 43.18 0)
+			(at 271.78 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14385,7 +14385,7 @@
 			)
 		)
 		(property "Sim.Name" "1N914"
-			(at 271.78 43.18 0)
+			(at 271.78 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14394,7 +14394,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 271.78 43.18 90)
+			(at 271.78 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14403,7 +14403,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 271.78 43.18 90)
+			(at 271.78 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14412,7 +14412,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 271.78 43.18 90)
+			(at 271.78 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14421,7 +14421,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 271.78 43.18 90)
+			(at 271.78 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14430,7 +14430,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 271.78 43.18 90)
+			(at 271.78 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14439,7 +14439,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 271.78 43.18 90)
+			(at 271.78 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14448,7 +14448,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 271.78 43.18 90)
+			(at 271.78 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14457,7 +14457,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 271.78 43.18 90)
+			(at 271.78 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14466,7 +14466,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 271.78 43.18 90)
+			(at 271.78 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15738,7 +15738,7 @@
 	)
 	(symbol
 		(lib_id "Diode:BAT41")
-		(at 271.78 38.1 0)
+		(at 271.78 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15746,7 +15746,7 @@
 		(dnp no)
 		(uuid "54111815-6e91-4f7a-a120-78ec5458d3ae")
 		(property "Reference" "D7"
-			(at 278.638 39.878 90)
+			(at 278.638 44.958 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15755,7 +15755,7 @@
 			)
 		)
 		(property "Value" "BAT41"
-			(at 281.178 39.878 90)
+			(at 281.178 44.958 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15764,7 +15764,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 271.78 42.545 0)
+			(at 271.78 47.625 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15773,7 +15773,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/85659/bat41.pdf"
-			(at 271.78 38.1 0)
+			(at 271.78 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15782,7 +15782,7 @@
 			)
 		)
 		(property "Description" "100V 0.1A Small Signal Schottky Diode, DO-35"
-			(at 271.78 38.1 0)
+			(at 271.78 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15791,7 +15791,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 271.78 38.1 90)
+			(at 271.78 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15800,7 +15800,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 271.78 38.1 90)
+			(at 271.78 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15809,7 +15809,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 271.78 38.1 90)
+			(at 271.78 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15818,7 +15818,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 271.78 38.1 90)
+			(at 271.78 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15827,7 +15827,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 271.78 38.1 90)
+			(at 271.78 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15836,7 +15836,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 271.78 38.1 90)
+			(at 271.78 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15845,7 +15845,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 271.78 38.1 90)
+			(at 271.78 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15854,7 +15854,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 271.78 38.1 90)
+			(at 271.78 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15863,7 +15863,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 271.78 38.1 90)
+			(at 271.78 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
