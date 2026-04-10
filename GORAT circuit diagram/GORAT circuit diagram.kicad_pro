@@ -490,7 +490,7 @@
       "plot": "GORAT gerbers v1.1/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "GoRATv1.1.step",
+      "step": "GoRATv0.2.step",
       "svg": "",
       "vrml": ""
     },
