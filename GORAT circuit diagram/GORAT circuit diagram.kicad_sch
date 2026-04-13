@@ -5643,6 +5643,12 @@
 		(uuid "2a44c249-e876-4ea1-93ba-7b091eafdc33")
 	)
 	(junction
+		(at 181.61 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2aee69d7-5fc3-464a-88ce-54a10d5cd12d")
+	)
+	(junction
 		(at 100.33 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5665,12 +5671,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3e8bb32f-8100-49d8-9776-35dcfc14cf4e")
-	)
-	(junction
-		(at 176.53 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ee65ff6-ad6a-4351-9f9e-9d317dece96e")
 	)
 	(junction
 		(at 119.38 58.42)
@@ -5707,6 +5707,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d563fbc-6c76-444c-9714-24b8c0514df0")
+	)
+	(junction
+		(at 171.45 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50813464-ab67-4758-a72c-9b4d1aab6874")
 	)
 	(junction
 		(at 35.56 104.14)
@@ -6244,7 +6250,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 96.52) (xy 168.91 96.52)
+			(xy 151.13 96.52) (xy 163.83 96.52)
 		)
 		(stroke
 			(width 0)
@@ -6354,7 +6360,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 96.52) (xy 176.53 101.6)
+			(xy 171.45 96.52) (xy 171.45 101.6)
 		)
 		(stroke
 			(width 0)
@@ -6474,16 +6480,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 101.6) (xy 184.15 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e802b52-420f-4b3a-ba13-dc095f8cc0c0")
-	)
-	(wire
-		(pts
 			(xy 105.41 63.5) (xy 105.41 64.77)
 		)
 		(stroke
@@ -6511,6 +6507,16 @@
 			(type default)
 		)
 		(uuid "50896a6e-979e-4c30-b132-f703bc45bbfb")
+	)
+	(wire
+		(pts
+			(xy 181.61 93.98) (xy 181.61 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50d498c9-ffeb-4f83-9b1a-54476c5c7075")
 	)
 	(wire
 		(pts
@@ -6874,7 +6880,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 101.6) (xy 176.53 114.3)
+			(xy 171.45 101.6) (xy 171.45 114.3)
 		)
 		(stroke
 			(width 0)
@@ -7004,6 +7010,16 @@
 	)
 	(wire
 		(pts
+			(xy 171.45 101.6) (xy 172.72 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89d97a6d-7236-4723-b8df-b6bdc254a6eb")
+	)
+	(wire
+		(pts
 			(xy 134.62 87.63) (xy 138.43 87.63)
 		)
 		(stroke
@@ -7071,6 +7087,16 @@
 			(type default)
 		)
 		(uuid "91584e6a-aa16-430c-94d5-ea5456055dcf")
+	)
+	(wire
+		(pts
+			(xy 180.34 101.6) (xy 181.61 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "946ff6c9-eda2-4bd6-88e8-3f05dcba9624")
 	)
 	(wire
 		(pts
@@ -7144,7 +7170,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 114.3) (xy 168.91 114.3)
+			(xy 151.13 114.3) (xy 163.83 114.3)
 		)
 		(stroke
 			(width 0)
@@ -7591,6 +7617,16 @@
 			(type default)
 		)
 		(uuid "cf9acb56-f0d2-4caa-a3d2-d3422f89c9b9")
+	)
+	(wire
+		(pts
+			(xy 181.61 101.6) (xy 184.15 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d04b58df-b6de-4c08-82b0-33a8a680142c")
 	)
 	(wire
 		(pts
@@ -11564,6 +11600,71 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
+		(at 181.61 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "254acdc1-db39-4814-96ec-19e56be7a029")
+		(property "Reference" "#PWR032"
+			(at 181.61 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+4.5V"
+			(at 181.356 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 181.61 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 181.61 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c6f6affd-58da-48a7-b46a-01da59a9204f")
+		)
+		(instances
+			(project "GORAT circuit diagram"
+				(path "/5cc94095-982d-43d1-acd4-ea825b0c1010"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
 		(at 104.14 119.38 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11696,7 +11797,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 172.72 114.3 90)
+		(at 167.64 114.3 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11705,7 +11806,7 @@
 		(dnp no)
 		(uuid "2ac6028c-cac8-41bd-9c90-4d6911cba41c")
 		(property "Reference" "R17"
-			(at 172.72 120.65 90)
+			(at 167.64 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11713,7 +11814,7 @@
 			)
 		)
 		(property "Value" "22k"
-			(at 172.72 118.11 90)
+			(at 167.64 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11721,7 +11822,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 172.72 112.522 90)
+			(at 167.64 112.522 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11730,7 +11831,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 172.72 114.3 0)
+			(at 167.64 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11739,7 +11840,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 172.72 114.3 0)
+			(at 167.64 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11748,7 +11849,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 172.72 114.3 90)
+			(at 167.64 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11757,7 +11858,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 172.72 114.3 90)
+			(at 167.64 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11766,7 +11867,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 172.72 114.3 90)
+			(at 167.64 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11775,7 +11876,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 172.72 114.3 90)
+			(at 167.64 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11784,7 +11885,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 172.72 114.3 90)
+			(at 167.64 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11793,7 +11894,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 172.72 114.3 90)
+			(at 167.64 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11802,7 +11903,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 172.72 114.3 90)
+			(at 167.64 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11811,7 +11912,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 172.72 114.3 90)
+			(at 167.64 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11820,7 +11921,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 172.72 114.3 90)
+			(at 167.64 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15231,7 +15332,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "10k"
 			(at 193.04 124.46 90)
 			(effects
 				(font
@@ -17274,6 +17375,155 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 176.53 101.6 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8e2dd2e8-8a76-4270-8e9c-97dca8d70511")
+		(property "Reference" "C6"
+			(at 176.53 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1u"
+			(at 176.53 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
+			(at 180.34 102.5652 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 176.53 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 176.53 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 176.53 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 176.53 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 176.53 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 176.53 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 176.53 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 176.53 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 176.53 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 176.53 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53a1ccb9-4931-4e84-a8c0-437dbf4a801c")
+		)
+		(pin "2"
+			(uuid "2673d9bf-ec69-4b13-8f7f-451f72a194ca")
+		)
+		(instances
+			(project "GORAT circuit diagram"
+				(path "/5cc94095-982d-43d1-acd4-ea825b0c1010"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
 		(at 190.5 96.52 180)
 		(unit 1)
@@ -17642,7 +17892,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 172.72 96.52 90)
+		(at 167.64 96.52 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17651,7 +17901,7 @@
 		(fields_autoplaced yes)
 		(uuid "9f035808-8d68-46ec-bf91-7bdb5e9983d0")
 		(property "Reference" "R16"
-			(at 172.72 90.17 90)
+			(at 167.64 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17659,7 +17909,7 @@
 			)
 		)
 		(property "Value" "22k"
-			(at 172.72 92.71 90)
+			(at 167.64 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17667,7 +17917,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 172.72 98.298 90)
+			(at 167.64 98.298 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17676,7 +17926,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 172.72 96.52 0)
+			(at 167.64 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17685,7 +17935,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 172.72 96.52 0)
+			(at 167.64 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17694,7 +17944,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 172.72 96.52 90)
+			(at 167.64 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17703,7 +17953,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 172.72 96.52 90)
+			(at 167.64 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17712,7 +17962,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 172.72 96.52 90)
+			(at 167.64 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17721,7 +17971,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 172.72 96.52 90)
+			(at 167.64 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17730,7 +17980,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 172.72 96.52 90)
+			(at 167.64 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17739,7 +17989,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 172.72 96.52 90)
+			(at 167.64 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17748,7 +17998,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 172.72 96.52 90)
+			(at 167.64 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17757,7 +18007,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 172.72 96.52 90)
+			(at 167.64 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17766,7 +18016,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 172.72 96.52 90)
+			(at 167.64 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18082,6 +18332,155 @@
 			(project "GORAT circuit diagram"
 				(path "/5cc94095-982d-43d1-acd4-ea825b0c1010"
 					(reference "SP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 181.61 90.17 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a59493f9-46d3-45e8-97b3-1f963802a05b")
+		(property "Reference" "R27"
+			(at 177.8 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47k"
+			(at 177.8 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 179.832 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 181.61 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 181.61 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 181.61 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 181.61 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 181.61 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 181.61 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 181.61 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 181.61 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 181.61 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 181.61 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a0e86114-dd35-4805-b134-4885db97b94f")
+		)
+		(pin "2"
+			(uuid "738fc6fb-6d4d-4457-9c4a-8cebac15cbe5")
+		)
+		(instances
+			(project "GORAT circuit diagram"
+				(path "/5cc94095-982d-43d1-acd4-ea825b0c1010"
+					(reference "R27")
 					(unit 1)
 				)
 			)
