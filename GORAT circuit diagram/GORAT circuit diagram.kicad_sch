@@ -5415,6 +5415,54 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 264.16 34.29)
+		(end 281.94 55.88)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 3ff204b2-33cb-45e5-9ded-7bc004cf257e)
+	)
+	(rectangle
+		(start 189.23 118.11)
+		(end 199.39 128.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5dea0351-c4a9-407a-9884-f72fd31c5b67)
+	)
+	(rectangle
+		(start 161.29 86.36)
+		(end 172.72 128.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid cef0ef37-2a6e-4ef7-82ac-a5ed2ba7f26c)
+	)
+	(rectangle
+		(start 247.65 91.44)
+		(end 265.43 99.06)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f2b97874-de2b-4458-bd73-dfb8d8ded7d2)
+	)
 	(text "Wet"
 		(exclude_from_sim no)
 		(at 164.592 95.25 0)
@@ -5427,7 +5475,7 @@
 	)
 	(text "OR 100k\nor buffer and try\n4.7k or 5.1k"
 		(exclude_from_sim no)
-		(at 121.92 113.792 0)
+		(at 118.872 114.808 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5435,6 +5483,17 @@
 			(justify left)
 		)
 		(uuid "2a749105-7b21-4d4e-89a6-75776077458a")
+	)
+	(text "Might be very low\nconsider changing on test"
+		(exclude_from_sim no)
+		(at 254.254 101.854 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "54b9ed35-73e8-4b08-b63b-e083be60409e")
 	)
 	(text "Soft/Hard clipping switch"
 		(exclude_from_sim no)
@@ -5445,6 +5504,27 @@
 			)
 		)
 		(uuid "5e8419ee-9c64-4600-ba5d-9e9b125c9986")
+	)
+	(text "consider increasing this\nif output is too low\nor decreasing it output too hot"
+		(exclude_from_sim no)
+		(at 199.898 125.222 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "63869fd0-fe3c-4f12-b2ab-a9e1defaa3e6")
+	)
+	(text "change this, no need to use both lugs "
+		(exclude_from_sim no)
+		(at 260.604 53.848 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6e785349-e732-41f0-8e5f-3632d2b8f42f")
 	)
 	(text "Treble"
 		(exclude_from_sim no)
@@ -5476,6 +5556,17 @@
 		)
 		(uuid "b4f491ab-98b6-4187-8f04-544d51161601")
 	)
+	(text "perhaps no longer necessary,\nor reduce to like 1kohm?\nthis section could go to virtual ground and remove some complexity\n"
+		(exclude_from_sim no)
+		(at 160.528 125.222 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c9404eac-6eb2-4b44-9644-fc0800607863")
+	)
 	(text "Diode pair selection"
 		(exclude_from_sim no)
 		(at 270.764 14.986 0)
@@ -5495,6 +5586,16 @@
 			)
 		)
 		(uuid "f8c1c2a5-c93e-4ddd-99c7-384b44aada25")
+	)
+	(text "this is wrong\nfix it before next batch"
+		(exclude_from_sim no)
+		(at 271.018 59.182 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fc587a0b-35f2-4d41-9e99-3727b33bddcc")
 	)
 	(text_box "or maybe one across here"
 		(exclude_from_sim no)
@@ -5587,6 +5688,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "07d7aa45-b9c6-4219-beeb-d5a39d7eb0b8")
+	)
+	(junction
+		(at 266.7 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0f34a5d5-fb65-41d8-9a23-a2a0eb5f1d72")
 	)
 	(junction
 		(at 220.98 58.42)
@@ -5809,12 +5916,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dd93f46f-89e5-49e9-b1ee-a41b91fb68ae")
-	)
-	(junction
-		(at 266.7 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e22bf879-d65f-44a3-8649-fcbb64bf0dd6")
 	)
 	(junction
 		(at 276.86 46.99)
@@ -6403,6 +6504,16 @@
 			(type default)
 		)
 		(uuid "421192c4-d78d-4757-9888-c45293a93127")
+	)
+	(wire
+		(pts
+			(xy 266.7 41.91) (xy 267.97 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "432537ab-e434-4c13-b534-dceaa33efb23")
 	)
 	(wire
 		(pts
@@ -7256,16 +7367,6 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 36.83) (xy 266.7 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5c415dc-99e4-4446-a582-978f98de2181")
-	)
-	(wire
-		(pts
 			(xy 139.7 43.18) (xy 137.16 43.18)
 		)
 		(stroke
@@ -7756,7 +7857,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 41.91) (xy 266.7 49.53)
+			(xy 266.7 36.83) (xy 266.7 41.91)
 		)
 		(stroke
 			(width 0)
@@ -7823,16 +7924,6 @@
 			(type default)
 		)
 		(uuid "eb7f5934-07ab-4cd1-ba92-99bf66488314")
-	)
-	(wire
-		(pts
-			(xy 266.7 41.91) (xy 267.97 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eef24e4e-e585-4449-8691-2525fe4853f8")
 	)
 	(wire
 		(pts
@@ -7913,6 +8004,16 @@
 			(type default)
 		)
 		(uuid "fb6e93f8-fee4-43f1-87d9-81b5e513a952")
+	)
+	(wire
+		(pts
+			(xy 266.7 41.91) (xy 266.7 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbf078bf-eede-40fe-8f32-f0ed787089f1")
 	)
 	(wire
 		(pts
