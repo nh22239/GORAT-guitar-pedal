@@ -480,7 +480,8 @@
     },
     "net_colors": {
       "+4.5V": "rgb(255, 243, 0)",
-      "+9V": "rgb(255, 114, 0)"
+      "+9V": "rgb(255, 114, 0)",
+      "Vin1": "rgb(255, 0, 241)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []
